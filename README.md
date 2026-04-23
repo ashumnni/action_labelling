@@ -1,32 +1,44 @@
-# Action Labelling Session Summary - April 23, 2026
+# Action Labelling Engine - Session Results
 
-This repository has been updated with the results of the latest automated action labeling session.
+This repository contains the outputs and tools used during the automated action labeling session on **April 23, 2026**. The focus was on processing egocentric video data for dual-mode action recognition.
 
 ## 🛠 Actions Completed
 
-1. **Environment Setup**
-   - Installed core dependencies: `openai`, `python-dotenv`, `tqdm`, and `opencv-python`.
-   - Updated `requirements.txt` to include these libraries for future deployments.
+### 1. Environment Optimization
+- Installed and configured `openai`, `python-dotenv`, `tqdm`, and `opencv-python`.
+- Updated `requirements.txt` to streamline future setup.
 
-2. **Automated Video Labeling**
-   - Processed `SortingVegetables-1.mov` using the GPT-4o Vision labeling engine.
-   - **Descriptive Pass**: Generated 10-12 word high-fidelity action descriptions ([sorting_descriptive_v1.json](sorting_descriptive_v1.json)).
-   - **Robot TAL Pass**: Generated 6-8 word imperative command contexts ([sorting_tal_dense_v1.json](sorting_tal_dense_v1.json)).
+### 2. Dual-Mode Temporal Action Labeling (TAL)
+We processed **`SortingVegetables-1.mov`** using GPT-4o Vision to generate two distinct types of labels:
+- **Descriptive Pass**: 10-12 word high-fidelity human activity descriptions.
+- **Robot TAL Pass**: 6-8 word imperative command contexts for robotic control.
+- **Master Ledger**: Integrated results into the centralized `master_results.json`.
 
-3. **Data Integration**
-   - Updated the centralized `master_results.json` ledger with the new video segments.
-   - Extracted frame-level screenshots for the training dataset.
+### 3. Visual Verification
+Generated a high-resolution visualization with a dynamic HUD overlay:
+- **File**: `SortingVegetables-1_labeled.mp4`
+- **Features**: Real-time action labels, confidence metrics, and temporal tracking.
 
-4. **Visualization**
-   - Generated a labeled video overlay: `SortingVegetables-1_labeled.mp4`.
-   - The visualization includes real-time command labels, timestamps, and confidence scores.
+## 🚀 How to Run (Session Scripts)
 
-5. **Repository Management**
-   - Initialized Git repository and configured `.gitignore` to protect credentials and exclude large media files.
-   - Established remote connection to GitHub and successfully pushed the project source and results.
+### Labeling
+To reproduce the labeling results:
+```bash
+# For Robot Commands (TAL)
+python gpt_labeler.py --video SortingVegetables-1.mov --format tal --output sorting_tal_dense_v1.json
+
+# For Descriptive Labels
+python gpt_labeler.py --video SortingVegetables-1.mov --format descriptive --output sorting_descriptive_v1.json
+```
+
+### Visualization
+To generate the labeled video:
+```bash
+python visualizer.py --video SortingVegetables-1.mov --master sorting_tal_dense_v1.json --output SortingVegetables-1_labeled.mp4
+```
 
 ## 📂 Session Outputs
-- `sorting_descriptive_v1.json` (High-fidelity labels)
-- `sorting_tal_dense_v1.json` (Robot command labels)
+- [`sorting_descriptive_v1.json`](sorting_descriptive_v1.json)
+- [`sorting_tal_dense_v1.json`](sorting_tal_dense_v1.json)
 - `SortingVegetables-1_labeled.mp4` (Visualization)
-- Updated `master_results.json`
+- `master_results.json` (Consolidated Ledger)
