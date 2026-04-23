@@ -1,0 +1,1644 @@
+{
+    "CookingFood-1.mov": [
+        {
+            "start": 0.0,
+            "end": 35.0,
+            "label": "Chop vegetables into small pieces carefully",
+            "robot_command": ""
+        },
+        {
+            "start": 35.0,
+            "end": 45.0,
+            "label": "Add chopped onions to heated pan",
+            "robot_command": ""
+        },
+        {
+            "start": 45.0,
+            "end": 46.0,
+            "label": "Stir the contents within the pan gently",
+            "robot_command": ""
+        },
+        {
+            "start": 46.0,
+            "end": 47.0,
+            "label": "Monitor the cooking process in the pan",
+            "robot_command": ""
+        },
+        {
+            "start": 47.0,
+            "end": 49.0,
+            "label": "Turn the ingredients after sufficient cooking",
+            "robot_command": ""
+        },
+        {
+            "start": 49.0,
+            "end": 50.0,
+            "label": "Ensure even cooking and adjust if needed",
+            "robot_command": ""
+        },
+        {
+            "start": 50.0,
+            "end": 52.0,
+            "label": "Open the kitchen drawer to access utensils",
+            "robot_command": ""
+        },
+        {
+            "start": 52.0,
+            "end": 54.0,
+            "label": "Select appropriate utensil from the drawer",
+            "robot_command": ""
+        },
+        {
+            "start": 54.0,
+            "end": 55.0,
+            "label": "Return to stove after selecting utensil",
+            "robot_command": ""
+        },
+        {
+            "start": 55.0,
+            "end": 70.0,
+            "label": "Transfer chopped tomatoes into the pan",
+            "robot_command": ""
+        },
+        {
+            "start": 70.0,
+            "end": 74.0,
+            "label": "Scoop vegetables from cutting board",
+            "robot_command": ""
+        },
+        {
+            "start": 74.0,
+            "end": 78.0,
+            "label": "Add vegetables to the right pan",
+            "robot_command": ""
+        },
+        {
+            "start": 78.0,
+            "end": 85.0,
+            "label": "Stir ingredients in the pan gently",
+            "robot_command": ""
+        },
+        {
+            "start": 85.0,
+            "end": 91.0,
+            "label": "Select the green vegetables from bag",
+            "robot_command": ""
+        },
+        {
+            "start": 91.0,
+            "end": 95.0,
+            "label": "Place green herbs onto cutting board",
+            "robot_command": ""
+        },
+        {
+            "start": 95.0,
+            "end": 105.0,
+            "label": "Store the bagged greens inside refrigerator",
+            "robot_command": ""
+        },
+        {
+            "start": 105.0,
+            "end": 115.0,
+            "label": "Rinse hands thoroughly under running water",
+            "robot_command": ""
+        },
+        {
+            "start": 115.0,
+            "end": 125.0,
+            "label": "Prepare fresh coriander on chopping board",
+            "robot_command": ""
+        },
+        {
+            "start": 125.0,
+            "end": 135.0,
+            "label": "Finely chop fresh coriander on board",
+            "robot_command": ""
+        },
+        {
+            "start": 135.0,
+            "end": 136.0,
+            "label": "Grab the packet of seasoning from counter",
+            "robot_command": ""
+        },
+        {
+            "start": 136.0,
+            "end": 143.0,
+            "label": "Stir ingredients in the cooking pan",
+            "robot_command": ""
+        },
+        {
+            "start": 143.0,
+            "end": 145.0,
+            "label": "Walk away from the cooking area",
+            "robot_command": ""
+        },
+        {
+            "start": 145.0,
+            "end": 146.0,
+            "label": "Open the kitchen drawer to retrieve lid",
+            "robot_command": ""
+        },
+        {
+            "start": 146.0,
+            "end": 150.0,
+            "label": "Place the lid on the pot",
+            "robot_command": ""
+        },
+        {
+            "start": 150.0,
+            "end": 151.0,
+            "label": "Secure the lid onto the frying pan",
+            "robot_command": ""
+        },
+        {
+            "start": 151.0,
+            "end": 152.0,
+            "label": "Place large spoon on the counter",
+            "robot_command": ""
+        },
+        {
+            "start": 152.0,
+            "end": 153.0,
+            "label": "Keep the ladle beside various spices",
+            "robot_command": ""
+        },
+        {
+            "start": 153.0,
+            "end": 154.0,
+            "label": "Prepare spice containers on the counter",
+            "robot_command": ""
+        },
+        {
+            "start": 154.0,
+            "end": 165.0,
+            "label": "Stir contents within the frying pan",
+            "robot_command": ""
+        },
+        {
+            "start": 165.0,
+            "end": 173.0,
+            "label": "Stir ingredients in the pan gently",
+            "robot_command": ""
+        },
+        {
+            "start": 173.0,
+            "end": 176.0,
+            "label": "Mix the meat in the smaller bowl",
+            "robot_command": ""
+        },
+        {
+            "start": 176.0,
+            "end": 195.0,
+            "label": "Add meat to the cooking pan",
+            "robot_command": ""
+        },
+        {
+            "start": 195.0,
+            "end": 199.0,
+            "label": "Stir contents in the cooking pan",
+            "robot_command": ""
+        },
+        {
+            "start": 199.0,
+            "end": 203.0,
+            "label": "Cover the pan with a lid carefully",
+            "robot_command": ""
+        },
+        {
+            "start": 203.0,
+            "end": 206.0,
+            "label": "Check and stir the cooking contents",
+            "robot_command": ""
+        },
+        {
+            "start": 206.0,
+            "end": 209.0,
+            "label": "Stir contents in the pan thoroughly",
+            "robot_command": ""
+        },
+        {
+            "start": 209.0,
+            "end": 210.0,
+            "label": "Transfer cooked ingredients to green board",
+            "robot_command": ""
+        },
+        {
+            "start": 210.0,
+            "end": 211.0,
+            "label": "Use spoon to transfer food from pan",
+            "robot_command": ""
+        },
+        {
+            "start": 211.0,
+            "end": 212.0,
+            "label": "Scoop chopped greens onto metal spoon",
+            "robot_command": ""
+        },
+        {
+            "start": 212.0,
+            "end": 214.0,
+            "label": "Tilt board to slide vegetables into pan",
+            "robot_command": ""
+        },
+        {
+            "start": 214.0,
+            "end": 215.0,
+            "label": "Adjust and slide cutting board slightly",
+            "robot_command": ""
+        },
+        {
+            "start": 215.0,
+            "end": 217.0,
+            "label": "Move leftover vegetables to the pan",
+            "robot_command": ""
+        },
+        {
+            "start": 217.0,
+            "end": 220.0,
+            "label": "Stir vegetables evenly within the pan",
+            "robot_command": ""
+        },
+        {
+            "start": 220.0,
+            "end": 223.0,
+            "label": "Reach towards items on the counter",
+            "robot_command": ""
+        },
+        {
+            "start": 223.0,
+            "end": 225.0,
+            "label": "Open cupboard to access stored items",
+            "robot_command": ""
+        },
+        {
+            "start": 225.0,
+            "end": 226.0,
+            "label": "Reach for the blue container on counter",
+            "robot_command": ""
+        },
+        {
+            "start": 226.0,
+            "end": 227.0,
+            "label": "Place the blue container on the shelf",
+            "robot_command": ""
+        },
+        {
+            "start": 227.0,
+            "end": 228.0,
+            "label": "Pick up the other container from counter",
+            "robot_command": ""
+        },
+        {
+            "start": 228.0,
+            "end": 229.0,
+            "label": "Open the other container to access contents",
+            "robot_command": ""
+        },
+        {
+            "start": 229.0,
+            "end": 230.0,
+            "label": "Take vegetables from cutting board area",
+            "robot_command": ""
+        },
+        {
+            "start": 230.0,
+            "end": 231.0,
+            "label": "Gather mushrooms and onions from counter",
+            "robot_command": ""
+        },
+        {
+            "start": 231.0,
+            "end": 232.0,
+            "label": "Transfer mushrooms to the small metal bowl",
+            "robot_command": ""
+        },
+        {
+            "start": 232.0,
+            "end": 233.0,
+            "label": "Continue placing onions into the container",
+            "robot_command": ""
+        },
+        {
+            "start": 233.0,
+            "end": 235.0,
+            "label": "Finish organizing and clearing countertop items",
+            "robot_command": ""
+        },
+        {
+            "start": 235.0,
+            "end": 236.0,
+            "label": "Glance down towards the cutting board",
+            "robot_command": ""
+        },
+        {
+            "start": 236.0,
+            "end": 237.0,
+            "label": "Walk towards the sink in the kitchen",
+            "robot_command": ""
+        },
+        {
+            "start": 237.0,
+            "end": 238.0,
+            "label": "Reach for the kitchen towel by sink",
+            "robot_command": ""
+        },
+        {
+            "start": 238.0,
+            "end": 239.0,
+            "label": "Turn back towards the working station",
+            "robot_command": ""
+        },
+        {
+            "start": 239.0,
+            "end": 240.0,
+            "label": "Approach the counter with green cloth",
+            "robot_command": ""
+        },
+        {
+            "start": 240.0,
+            "end": 241.0,
+            "label": "Wipe down the counter near ingredients",
+            "robot_command": ""
+        },
+        {
+            "start": 241.0,
+            "end": 242.0,
+            "label": "Clean the surface by wiping with cloth",
+            "robot_command": ""
+        },
+        {
+            "start": 242.0,
+            "end": 246.0,
+            "label": "Wipe and clean the kitchen counter",
+            "robot_command": ""
+        },
+        {
+            "start": 246.0,
+            "end": 247.0,
+            "label": "Move again towards the kitchen sink",
+            "robot_command": ""
+        },
+        {
+            "start": 247.0,
+            "end": 249.0,
+            "label": "Dispose waste into the silver trash",
+            "robot_command": ""
+        },
+        {
+            "start": 249.0,
+            "end": 250.0,
+            "label": "Walk back towards the green board",
+            "robot_command": ""
+        },
+        {
+            "start": 250.0,
+            "end": 252.0,
+            "label": "Stand near the green chopping area",
+            "robot_command": ""
+        },
+        {
+            "start": 252.0,
+            "end": 255.0,
+            "label": "Finish cleaning the counter surface",
+            "robot_command": ""
+        },
+        {
+            "start": 255.0,
+            "end": 256.0,
+            "label": "Wipe the kitchen counter with cloth",
+            "robot_command": ""
+        },
+        {
+            "start": 256.0,
+            "end": 257.0,
+            "label": "Set down the wiping cloth aside",
+            "robot_command": ""
+        },
+        {
+            "start": 257.0,
+            "end": 258.0,
+            "label": "Hold and adjust the aluminum pan handle",
+            "robot_command": ""
+        },
+        {
+            "start": 258.0,
+            "end": 259.0,
+            "label": "Pick up the packaged food seasoning",
+            "robot_command": ""
+        },
+        {
+            "start": 259.0,
+            "end": 260.0,
+            "label": "Pour seasoning into the cooking pan",
+            "robot_command": ""
+        },
+        {
+            "start": 260.0,
+            "end": 261.0,
+            "label": "Stir the contents inside cooking pan",
+            "robot_command": ""
+        },
+        {
+            "start": 261.0,
+            "end": 262.0,
+            "label": "Wipe the kitchen counter with cloth",
+            "robot_command": ""
+        },
+        {
+            "start": 262.0,
+            "end": 263.0,
+            "label": "Hold the aluminum lid with hands",
+            "robot_command": ""
+        },
+        {
+            "start": 263.0,
+            "end": 265.0,
+            "label": "Open cabinet drawer below the counter",
+            "robot_command": ""
+        },
+        {
+            "start": 265.0,
+            "end": 266.0,
+            "label": "Retrieve the metal lid from drawer",
+            "robot_command": ""
+        },
+        {
+            "start": 266.0,
+            "end": 267.0,
+            "label": "Cover the cooking pot with lid",
+            "robot_command": ""
+        },
+        {
+            "start": 267.0,
+            "end": 268.0,
+            "label": "Securely adjust the pot's metal lid",
+            "robot_command": ""
+        },
+        {
+            "start": 268.0,
+            "end": 269.0,
+            "label": "Check the pot contents with spoon",
+            "robot_command": ""
+        },
+        {
+            "start": 269.0,
+            "end": 271.0,
+            "label": "Use cloth to hold hot pan",
+            "robot_command": ""
+        },
+        {
+            "start": 271.0,
+            "end": 281.0,
+            "label": "Cover food pan with metal lid",
+            "robot_command": ""
+        },
+        {
+            "start": 281.0,
+            "end": 283.0,
+            "label": "Pick up blue cloth from counter",
+            "robot_command": ""
+        },
+        {
+            "start": 283.0,
+            "end": 285.0,
+            "label": "Fold and place blue cloth aside",
+            "robot_command": ""
+        },
+        {
+            "start": 285.0,
+            "end": 287.0,
+            "label": "Reach for metal bowl near sink",
+            "robot_command": ""
+        },
+        {
+            "start": 287.0,
+            "end": 289.0,
+            "label": "Lift metal bowl from counter",
+            "robot_command": ""
+        },
+        {
+            "start": 289.0,
+            "end": 291.0,
+            "label": "Rinse the bowl under running water",
+            "robot_command": ""
+        },
+        {
+            "start": 291.0,
+            "end": 293.0,
+            "label": "Wipe bowl with cloth thoroughly",
+            "robot_command": ""
+        },
+        {
+            "start": 293.0,
+            "end": 295.0,
+            "label": "Place cleaned bowl back in sink",
+            "robot_command": ""
+        },
+        {
+            "start": 295.0,
+            "end": 296.0,
+            "label": "Wash dishes thoroughly under running water",
+            "robot_command": ""
+        },
+        {
+            "start": 296.0,
+            "end": 297.0,
+            "label": "Rinse dishes thoroughly under running water",
+            "robot_command": ""
+        },
+        {
+            "start": 297.0,
+            "end": 298.0,
+            "label": "Move away from sink towards countertop",
+            "robot_command": ""
+        },
+        {
+            "start": 298.0,
+            "end": 299.0,
+            "label": "Reach for cutting board on kitchen counter",
+            "robot_command": ""
+        },
+        {
+            "start": 299.0,
+            "end": 300.0,
+            "label": "Pick up container with sliced ingredients",
+            "robot_command": ""
+        },
+        {
+            "start": 300.0,
+            "end": 301.0,
+            "label": "Transfer container from counter to sink",
+            "robot_command": ""
+        },
+        {
+            "start": 301.0,
+            "end": 302.0,
+            "label": "Hold jar and move across kitchen",
+            "robot_command": ""
+        },
+        {
+            "start": 302.0,
+            "end": 303.0,
+            "label": "Move back away from sink to counter",
+            "robot_command": ""
+        },
+        {
+            "start": 303.0,
+            "end": 305.0,
+            "label": "Reach towards shelf above counter area",
+            "robot_command": ""
+        },
+        {
+            "start": 305.0,
+            "end": 308.0,
+            "label": "Place jar on counter and organize items",
+            "robot_command": ""
+        },
+        {
+            "start": 308.0,
+            "end": 311.0,
+            "label": "Open container and prepare to use contents",
+            "robot_command": ""
+        },
+        {
+            "start": 311.0,
+            "end": 313.0,
+            "label": "Walk towards sink holding container firmly",
+            "robot_command": ""
+        },
+        {
+            "start": 313.0,
+            "end": 315.0,
+            "label": "Place container down and adjust other items",
+            "robot_command": ""
+        },
+        {
+            "start": 315.0,
+            "end": 316.0,
+            "label": "Hold packaged food in right hand",
+            "robot_command": ""
+        },
+        {
+            "start": 316.0,
+            "end": 317.0,
+            "label": "Open refrigerator and place packaged food",
+            "robot_command": ""
+        },
+        {
+            "start": 317.0,
+            "end": 318.0,
+            "label": "Close refrigerator door securely after use",
+            "robot_command": ""
+        },
+        {
+            "start": 318.0,
+            "end": 319.0,
+            "label": "Walk towards the kitchen stove area",
+            "robot_command": ""
+        },
+        {
+            "start": 319.0,
+            "end": 322.0,
+            "label": "Turn on the stove carefully using knob",
+            "robot_command": ""
+        },
+        {
+            "start": 322.0,
+            "end": 330.0,
+            "label": "Stir and mix vegetables in frying pan",
+            "robot_command": ""
+        },
+        {
+            "start": 330.0,
+            "end": 345.0,
+            "label": "Stir ingredients in pan continuously until cooked",
+            "robot_command": ""
+        },
+        {
+            "start": 345.0,
+            "end": 346.0,
+            "label": "Stir chicken pieces on the stove",
+            "robot_command": ""
+        },
+        {
+            "start": 346.0,
+            "end": 347.0,
+            "label": "Move towards cutting board quickly",
+            "robot_command": ""
+        },
+        {
+            "start": 347.0,
+            "end": 348.0,
+            "label": "Pick up container with blue lid",
+            "robot_command": ""
+        },
+        {
+            "start": 348.0,
+            "end": 349.0,
+            "label": "Open the blue lid on container",
+            "robot_command": ""
+        },
+        {
+            "start": 349.0,
+            "end": 352.0,
+            "label": "Scoop yellow substance from container",
+            "robot_command": ""
+        },
+        {
+            "start": 352.0,
+            "end": 353.0,
+            "label": "Add substance to cooking pan",
+            "robot_command": ""
+        },
+        {
+            "start": 353.0,
+            "end": 354.0,
+            "label": "Screw blue lid back onto container",
+            "robot_command": ""
+        },
+        {
+            "start": 354.0,
+            "end": 355.0,
+            "label": "Carry container towards the counter",
+            "robot_command": ""
+        },
+        {
+            "start": 355.0,
+            "end": 357.0,
+            "label": "Retrieve blue lid from the floor",
+            "robot_command": ""
+        },
+        {
+            "start": 357.0,
+            "end": 358.0,
+            "label": "Secure blue lid onto the container",
+            "robot_command": ""
+        },
+        {
+            "start": 358.0,
+            "end": 360.0,
+            "label": "Prepare to add more ingredients next",
+            "robot_command": ""
+        },
+        {
+            "start": 360.0,
+            "end": 361.0,
+            "label": "Withdraw spoon and shift container position",
+            "robot_command": ""
+        },
+        {
+            "start": 361.0,
+            "end": 362.0,
+            "label": "Position container and secure on counter",
+            "robot_command": ""
+        },
+        {
+            "start": 362.0,
+            "end": 363.0,
+            "label": "Tighten lid on container and lift up",
+            "robot_command": ""
+        },
+        {
+            "start": 363.0,
+            "end": 364.0,
+            "label": "Put lid back on container carefully",
+            "robot_command": ""
+        },
+        {
+            "start": 364.0,
+            "end": 365.0,
+            "label": "Place container on upper shelf securely",
+            "robot_command": ""
+        },
+        {
+            "start": 365.0,
+            "end": 366.0,
+            "label": "Place covered container on counter",
+            "robot_command": ""
+        },
+        {
+            "start": 366.0,
+            "end": 368.0,
+            "label": "Spoon vegetables into cooking pan carefully",
+            "robot_command": ""
+        },
+        {
+            "start": 368.0,
+            "end": 370.0,
+            "label": "Stir the contents of frying pan",
+            "robot_command": ""
+        },
+        {
+            "start": 370.0,
+            "end": 371.0,
+            "label": "Stir ingredients in the pan thoroughly",
+            "robot_command": ""
+        },
+        {
+            "start": 371.0,
+            "end": 372.0,
+            "label": "Walk towards the nearby refrigerator",
+            "robot_command": ""
+        },
+        {
+            "start": 372.0,
+            "end": 374.0,
+            "label": "Open refrigerator door to take fruit",
+            "robot_command": ""
+        },
+        {
+            "start": 374.0,
+            "end": 375.0,
+            "label": "Retrieve items from refrigerator shelf",
+            "robot_command": ""
+        },
+        {
+            "start": 375.0,
+            "end": 376.0,
+            "label": "Retrieve and handle lime with both hands",
+            "robot_command": ""
+        },
+        {
+            "start": 376.0,
+            "end": 377.0,
+            "label": "Roll the lime between hands softly",
+            "robot_command": ""
+        },
+        {
+            "start": 377.0,
+            "end": 379.0,
+            "label": "Prepare to cut the lime on board",
+            "robot_command": ""
+        },
+        {
+            "start": 379.0,
+            "end": 380.0,
+            "label": "Position lime on the cutting board gently",
+            "robot_command": ""
+        },
+        {
+            "start": 380.0,
+            "end": 381.0,
+            "label": "Slice through middle section of lime",
+            "robot_command": ""
+        },
+        {
+            "start": 381.0,
+            "end": 382.0,
+            "label": "Complete cutting lime into halves",
+            "robot_command": ""
+        },
+        {
+            "start": 382.0,
+            "end": 383.0,
+            "label": "Inspect the sliced lime segments closely",
+            "robot_command": ""
+        },
+        {
+            "start": 383.0,
+            "end": 384.0,
+            "label": "Adjust grip and reposition sliced lime",
+            "robot_command": ""
+        },
+        {
+            "start": 384.0,
+            "end": 385.0,
+            "label": "Slice the lime into smaller pieces",
+            "robot_command": ""
+        },
+        {
+            "start": 385.0,
+            "end": 386.0,
+            "label": "Hold lime slice and prepare next cut",
+            "robot_command": ""
+        },
+        {
+            "start": 386.0,
+            "end": 387.0,
+            "label": "Make a precise cut on lime slice",
+            "robot_command": ""
+        },
+        {
+            "start": 387.0,
+            "end": 388.0,
+            "label": "Finish cutting and arrange lime pieces",
+            "robot_command": ""
+        },
+        {
+            "start": 388.0,
+            "end": 390.0,
+            "label": "Set knife aside and clean cutting area",
+            "robot_command": ""
+        },
+        {
+            "start": 390.0,
+            "end": 395.0,
+            "label": "Add lime slices to the cooking pan",
+            "robot_command": ""
+        },
+        {
+            "start": 395.0,
+            "end": 400.0,
+            "label": "Sprinkle seasoning from container into pan",
+            "robot_command": ""
+        },
+        {
+            "start": 400.0,
+            "end": 405.0,
+            "label": "Stir the ingredients in the pan well",
+            "robot_command": ""
+        },
+        {
+            "start": 405.0,
+            "end": 410.0,
+            "label": "Stir the vegetables carefully in pan",
+            "robot_command": ""
+        },
+        {
+            "start": 410.0,
+            "end": 412.0,
+            "label": "Pick up and open the blue container",
+            "robot_command": ""
+        },
+        {
+            "start": 412.0,
+            "end": 413.0,
+            "label": "Open the container with both hands",
+            "robot_command": ""
+        },
+        {
+            "start": 413.0,
+            "end": 415.0,
+            "label": "Scoop contents from container into hand",
+            "robot_command": ""
+        },
+        {
+            "start": 415.0,
+            "end": 417.0,
+            "label": "Sprinkle the seasoning over the chicken",
+            "robot_command": ""
+        },
+        {
+            "start": 417.0,
+            "end": 419.0,
+            "label": "Close the container and set it aside",
+            "robot_command": ""
+        },
+        {
+            "start": 419.0,
+            "end": 420.0,
+            "label": "Secure the lid tightly on container",
+            "robot_command": ""
+        },
+        {
+            "start": 420.0,
+            "end": 421.0,
+            "label": "Close container with blue lid securely",
+            "robot_command": ""
+        },
+        {
+            "start": 421.0,
+            "end": 422.0,
+            "label": "Place blue lid onto the container",
+            "robot_command": ""
+        },
+        {
+            "start": 422.0,
+            "end": 423.0,
+            "label": "Open another container with blue lid",
+            "robot_command": ""
+        },
+        {
+            "start": 423.0,
+            "end": 424.0,
+            "label": "Open container to add spice powder",
+            "robot_command": ""
+        },
+        {
+            "start": 424.0,
+            "end": 426.0,
+            "label": "Spoon seasoning into the cooking pot",
+            "robot_command": ""
+        },
+        {
+            "start": 426.0,
+            "end": 427.0,
+            "label": "Scoop spices into cooking pot on stove",
+            "robot_command": ""
+        },
+        {
+            "start": 427.0,
+            "end": 429.0,
+            "label": "Secure lid on seasoning container tightly",
+            "robot_command": ""
+        },
+        {
+            "start": 429.0,
+            "end": 431.0,
+            "label": "Carry container toward overhead shelf",
+            "robot_command": ""
+        },
+        {
+            "start": 431.0,
+            "end": 432.0,
+            "label": "Reach up and take container down carefully",
+            "robot_command": ""
+        },
+        {
+            "start": 432.0,
+            "end": 433.0,
+            "label": "Place container on the overhead shelf",
+            "robot_command": ""
+        },
+        {
+            "start": 433.0,
+            "end": 435.0,
+            "label": "Return to counter beside cutting board",
+            "robot_command": ""
+        },
+        {
+            "start": 435.0,
+            "end": 438.0,
+            "label": "Move to the refrigerator and open door",
+            "robot_command": ""
+        },
+        {
+            "start": 438.0,
+            "end": 441.0,
+            "label": "Look inside the refrigerator and select item",
+            "robot_command": ""
+        },
+        {
+            "start": 441.0,
+            "end": 443.0,
+            "label": "Retrieve item from refrigerator shelf",
+            "robot_command": ""
+        },
+        {
+            "start": 443.0,
+            "end": 445.0,
+            "label": "Close the refrigerator door gently shut",
+            "robot_command": ""
+        },
+        {
+            "start": 445.0,
+            "end": 449.0,
+            "label": "Open refrigerator door carefully and reach inside",
+            "robot_command": ""
+        },
+        {
+            "start": 449.0,
+            "end": 453.0,
+            "label": "Examine the items on refrigerator shelf",
+            "robot_command": ""
+        },
+        {
+            "start": 453.0,
+            "end": 455.0,
+            "label": "Remove a packet from refrigerator shelf",
+            "robot_command": ""
+        },
+        {
+            "start": 455.0,
+            "end": 456.0,
+            "label": "Open the freezer door carefully",
+            "robot_command": ""
+        },
+        {
+            "start": 456.0,
+            "end": 458.0,
+            "label": "Place packet back on the refrigerator shelf",
+            "robot_command": ""
+        },
+        {
+            "start": 458.0,
+            "end": 459.0,
+            "label": "Move the peas to the side",
+            "robot_command": ""
+        },
+        {
+            "start": 459.0,
+            "end": 460.0,
+            "label": "Close the refrigerator door securely",
+            "robot_command": ""
+        },
+        {
+            "start": 460.0,
+            "end": 461.0,
+            "label": "Pick up the green peas bag",
+            "robot_command": ""
+        },
+        {
+            "start": 461.0,
+            "end": 462.0,
+            "label": "Rearrange items inside the freezer",
+            "robot_command": ""
+        },
+        {
+            "start": 462.0,
+            "end": 463.0,
+            "label": "Adjust items back in the freezer",
+            "robot_command": ""
+        },
+        {
+            "start": 463.0,
+            "end": 464.0,
+            "label": "Place the peas back on the shelf",
+            "robot_command": ""
+        },
+        {
+            "start": 464.0,
+            "end": 465.0,
+            "label": "Look over more items in the freezer",
+            "robot_command": ""
+        },
+        {
+            "start": 465.0,
+            "end": 466.0,
+            "label": "Pick up frozen vegetable pack",
+            "robot_command": ""
+        },
+        {
+            "start": 466.0,
+            "end": 467.0,
+            "label": "Put back the vegetable pack inside",
+            "robot_command": ""
+        },
+        {
+            "start": 467.0,
+            "end": 468.0,
+            "label": "Retrieve the block of cheese",
+            "robot_command": ""
+        },
+        {
+            "start": 468.0,
+            "end": 469.0,
+            "label": "Reach for an item from the fridge door",
+            "robot_command": ""
+        },
+        {
+            "start": 469.0,
+            "end": 470.0,
+            "label": "Hold item and examine it closely",
+            "robot_command": ""
+        },
+        {
+            "start": 470.0,
+            "end": 485.0,
+            "label": "Move to kitchen counter with items",
+            "robot_command": ""
+        },
+        {
+            "start": 485.0,
+            "end": 488.0,
+            "label": "Stir contents in pot on the stove",
+            "robot_command": ""
+        },
+        {
+            "start": 488.0,
+            "end": 488.5,
+            "label": "Stir mixture thoroughly in the pan",
+            "robot_command": ""
+        },
+        {
+            "start": 488.5,
+            "end": 489.0,
+            "label": "Cover the pot with the lid",
+            "robot_command": ""
+        },
+        {
+            "start": 489.0,
+            "end": 490.5,
+            "label": "Continue stirring to mix ingredients well",
+            "robot_command": ""
+        },
+        {
+            "start": 490.5,
+            "end": 494.0,
+            "label": "Continue stirring the dish to blend ingredients",
+            "robot_command": ""
+        },
+        {
+            "start": 494.0,
+            "end": 494.5,
+            "label": "Use spoon to check taste briefly",
+            "robot_command": ""
+        },
+        {
+            "start": 494.5,
+            "end": 495.0,
+            "label": "Adjust heat level on stove for cooking",
+            "robot_command": ""
+        },
+        {
+            "start": 495.0,
+            "end": 496.5,
+            "label": "Adjust heat level of the stove",
+            "robot_command": ""
+        },
+        {
+            "start": 496.5,
+            "end": 498.5,
+            "label": "Gently mix ingredients once more",
+            "robot_command": ""
+        },
+        {
+            "start": 498.5,
+            "end": 500.5,
+            "label": "Hold pan handle to stabilize while stirring",
+            "robot_command": ""
+        },
+        {
+            "start": 500.5,
+            "end": 502.5,
+            "label": "Taste mixture and confirm readiness",
+            "robot_command": ""
+        },
+        {
+            "start": 502.5,
+            "end": 505.0,
+            "label": "Final stir before turning off heat",
+            "robot_command": ""
+        },
+        {
+            "start": 505.0,
+            "end": 507.0,
+            "label": "Adjust the cooking utensils on stove",
+            "robot_command": ""
+        },
+        {
+            "start": 507.0,
+            "end": 509.0,
+            "label": "Mix ingredients in left frying pan",
+            "robot_command": ""
+        },
+        {
+            "start": 509.0,
+            "end": 510.0,
+            "label": "Scoop and fold ingredients in pan",
+            "robot_command": ""
+        },
+        {
+            "start": 510.0,
+            "end": 511.0,
+            "label": "Stir vegetables in right frying pan",
+            "robot_command": ""
+        },
+        {
+            "start": 511.0,
+            "end": 513.0,
+            "label": "Check contents of both frying pans",
+            "robot_command": ""
+        },
+        {
+            "start": 513.0,
+            "end": 516.0,
+            "label": "Prepare to take the dish off stove",
+            "robot_command": ""
+        },
+        {
+            "start": 516.0,
+            "end": 518.0,
+            "label": "Scoop mixture with metal spatula",
+            "robot_command": ""
+        },
+        {
+            "start": 518.0,
+            "end": 521.0,
+            "label": "Evenly distribute ingredients using spatula",
+            "robot_command": ""
+        },
+        {
+            "start": 521.0,
+            "end": 523.0,
+            "label": "Add seasoning to the cooking pan",
+            "robot_command": ""
+        },
+        {
+            "start": 523.0,
+            "end": 525.0,
+            "label": "Mix seasoning into cooking pan thoroughly",
+            "robot_command": ""
+        },
+        {
+            "start": 525.0,
+            "end": 527.0,
+            "label": "Stir ingredients inside the cooking pan",
+            "robot_command": ""
+        },
+        {
+            "start": 527.0,
+            "end": 529.0,
+            "label": "Stir the chicken pieces in pan",
+            "robot_command": ""
+        },
+        {
+            "start": 529.0,
+            "end": 531.0,
+            "label": "Adjust flame to change cooking pace",
+            "robot_command": ""
+        },
+        {
+            "start": 531.0,
+            "end": 534.0,
+            "label": "Mix spices evenly with chicken pieces",
+            "robot_command": ""
+        },
+        {
+            "start": 534.0,
+            "end": 535.0,
+            "label": "Stir gently to mix all ingredients",
+            "robot_command": ""
+        },
+        {
+            "start": 535.0,
+            "end": 539.0,
+            "label": "Adjust flame and continue stirring carefully",
+            "robot_command": ""
+        },
+        {
+            "start": 539.0,
+            "end": 544.0,
+            "label": "Check chicken pieces for even cooking",
+            "robot_command": ""
+        },
+        {
+            "start": 544.0,
+            "end": 545.0,
+            "label": "Cover pan to let chicken simmer",
+            "robot_command": ""
+        },
+        {
+            "start": 545.0,
+            "end": 550.0,
+            "label": "Stir the contents of the pan slowly",
+            "robot_command": ""
+        },
+        {
+            "start": 550.0,
+            "end": 570.0,
+            "label": "Check consistency and adjust spice level",
+            "robot_command": ""
+        },
+        {
+            "start": 570.0,
+            "end": 571.0,
+            "label": "Walk towards the cutting board station",
+            "robot_command": ""
+        },
+        {
+            "start": 571.0,
+            "end": 572.0,
+            "label": "Pick up ingredients from green cutting board",
+            "robot_command": ""
+        },
+        {
+            "start": 572.0,
+            "end": 576.0,
+            "label": "Place garlic pieces into grinder container",
+            "robot_command": ""
+        },
+        {
+            "start": 576.0,
+            "end": 582.0,
+            "label": "Securely attach lid onto grinder container",
+            "robot_command": ""
+        },
+        {
+            "start": 582.0,
+            "end": 590.0,
+            "label": "Secure grinder lid and begin blending",
+            "robot_command": ""
+        },
+        {
+            "start": 590.0,
+            "end": 592.0,
+            "label": "Adjust position slightly in kitchen",
+            "robot_command": ""
+        },
+        {
+            "start": 592.0,
+            "end": 594.0,
+            "label": "Turn around to face opposite direction",
+            "robot_command": ""
+        },
+        {
+            "start": 594.0,
+            "end": 595.0,
+            "label": "Walk towards stove with utensil",
+            "robot_command": ""
+        },
+        {
+            "start": 595.0,
+            "end": 596.0,
+            "label": "Stir contents in cooking pan briefly",
+            "robot_command": ""
+        },
+        {
+            "start": 596.0,
+            "end": 597.0,
+            "label": "Add spices from cup into the pan",
+            "robot_command": ""
+        },
+        {
+            "start": 597.0,
+            "end": 598.0,
+            "label": "Place cup back on kitchen counter",
+            "robot_command": ""
+        },
+        {
+            "start": 598.0,
+            "end": 600.5535111111111,
+            "label": "Adjust heat on the stove slightly",
+            "robot_command": ""
+        }
+    ],
+    "SortingVegetables-1.mov": [
+        {
+            "start": 0.0,
+            "end": 15.0,
+            "label": "Organize fresh leaves on newspaper sheet",
+            "robot_command": ""
+        },
+        {
+            "start": 15.0,
+            "end": 30.0,
+            "label": "Sort and separate stems from leaves",
+            "robot_command": ""
+        },
+        {
+            "start": 30.0,
+            "end": 45.0,
+            "label": "Carefully bundle leaves into small bunches",
+            "robot_command": ""
+        },
+        {
+            "start": 45.0,
+            "end": 60.0,
+            "label": "Align and adjust the leafy bundles neatly",
+            "robot_command": ""
+        },
+        {
+            "start": 60.0,
+            "end": 75.0,
+            "label": "Place the sorted leaves carefully aside",
+            "robot_command": ""
+        },
+        {
+            "start": 75.0,
+            "end": 90.0,
+            "label": "Pick up additional leaves for sorting",
+            "robot_command": ""
+        },
+        {
+            "start": 90.0,
+            "end": 105.0,
+            "label": "Remove unwanted parts from selected plants",
+            "robot_command": ""
+        },
+        {
+            "start": 105.0,
+            "end": 120.0,
+            "label": "Group similar leafy greens together on paper",
+            "robot_command": ""
+        },
+        {
+            "start": 120.0,
+            "end": 135.0,
+            "label": "Finalize the arrangement of all green bunches",
+            "robot_command": ""
+        },
+        {
+            "start": 135.0,
+            "end": 150.0,
+            "label": "Tidy up remaining leaves on the newspaper",
+            "robot_command": ""
+        },
+        {
+            "start": 150.0,
+            "end": 160.0,
+            "label": "Sort and pick fresh green leaves",
+            "robot_command": ""
+        },
+        {
+            "start": 160.0,
+            "end": 170.0,
+            "label": "Trim the edges with small scissors",
+            "robot_command": ""
+        },
+        {
+            "start": 170.0,
+            "end": 180.0,
+            "label": "Group similar leaves into one bunch",
+            "robot_command": ""
+        },
+        {
+            "start": 180.0,
+            "end": 190.0,
+            "label": "Move trimmed leaves to another pile",
+            "robot_command": ""
+        },
+        {
+            "start": 190.0,
+            "end": 200.0,
+            "label": "Separate dry leaves from the bunch",
+            "robot_command": ""
+        },
+        {
+            "start": 200.0,
+            "end": 210.0,
+            "label": "Adjust leaf positions on the newspaper",
+            "robot_command": ""
+        },
+        {
+            "start": 210.0,
+            "end": 220.0,
+            "label": "Pick up fresh leaves for trimming",
+            "robot_command": ""
+        },
+        {
+            "start": 220.0,
+            "end": 230.0,
+            "label": "Carefully trim the selected leaf stems",
+            "robot_command": ""
+        },
+        {
+            "start": 230.0,
+            "end": 240.0,
+            "label": "Move trimmed leaves to organized pile",
+            "robot_command": ""
+        },
+        {
+            "start": 240.0,
+            "end": 250.0,
+            "label": "Pick another set of leaves for sorting",
+            "robot_command": ""
+        },
+        {
+            "start": 250.0,
+            "end": 260.0,
+            "label": "Separate different types of leaf varieties",
+            "robot_command": ""
+        },
+        {
+            "start": 260.0,
+            "end": 270.0,
+            "label": "Trim excess stems using small scissors",
+            "robot_command": ""
+        },
+        {
+            "start": 270.0,
+            "end": 280.0,
+            "label": "Organize sorted leaves in separate sections",
+            "robot_command": ""
+        },
+        {
+            "start": 280.0,
+            "end": 290.0,
+            "label": "Ensure all leaves are properly trimmed",
+            "robot_command": ""
+        },
+        {
+            "start": 290.0,
+            "end": 300.0,
+            "label": "Inspect and adjust any misaligned leaves",
+            "robot_command": ""
+        },
+        {
+            "start": 300.0,
+            "end": 320.0,
+            "label": "Carefully separate the leaves from stems",
+            "robot_command": ""
+        },
+        {
+            "start": 320.0,
+            "end": 340.0,
+            "label": "Organize collected leaves into small bundles",
+            "robot_command": ""
+        },
+        {
+            "start": 340.0,
+            "end": 360.0,
+            "label": "Pick up and examine fresh green leaves",
+            "robot_command": ""
+        },
+        {
+            "start": 360.0,
+            "end": 380.0,
+            "label": "Sort remaining leaves by size and type",
+            "robot_command": ""
+        },
+        {
+            "start": 380.0,
+            "end": 400.0,
+            "label": "Remove unwanted parts from the leaves",
+            "robot_command": ""
+        },
+        {
+            "start": 400.0,
+            "end": 420.0,
+            "label": "Align sorted leaves onto the newspaper",
+            "robot_command": ""
+        },
+        {
+            "start": 420.0,
+            "end": 440.0,
+            "label": "Gather all leaves into a single pile",
+            "robot_command": ""
+        },
+        {
+            "start": 440.0,
+            "end": 450.0,
+            "label": "Finalize arrangement of leaves for storage",
+            "robot_command": ""
+        },
+        {
+            "start": 450.0,
+            "end": 471.0,
+            "label": "Gather leafy vegetables into a bundle",
+            "robot_command": ""
+        },
+        {
+            "start": 471.0,
+            "end": 491.0,
+            "label": "Sort and organize leafy vegetables carefully",
+            "robot_command": ""
+        },
+        {
+            "start": 491.0,
+            "end": 511.0,
+            "label": "Select and pick out unwanted leaves",
+            "robot_command": ""
+        },
+        {
+            "start": 511.0,
+            "end": 531.0,
+            "label": "Align vegetables neatly in small bunches",
+            "robot_command": ""
+        },
+        {
+            "start": 531.0,
+            "end": 551.0,
+            "label": "Inspect and choose freshest vegetables",
+            "robot_command": ""
+        },
+        {
+            "start": 551.0,
+            "end": 571.0,
+            "label": "Bundle and adjust the vegetable stems",
+            "robot_command": ""
+        },
+        {
+            "start": 571.0,
+            "end": 591.0,
+            "label": "Separate and untangle tangled stems gently",
+            "robot_command": ""
+        },
+        {
+            "start": 591.0,
+            "end": 599.54218,
+            "label": "Place sorted vegetables into separate piles",
+            "robot_command": ""
+        }
+    ]
+}

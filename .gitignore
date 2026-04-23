@@ -1,0 +1,15 @@
+# Environments
+.env
+__pycache__/
+*.pyc
+
+# Data & Results
+*.mov
+*.mp4
+dataset/screenshots/
+inference_results.json
+sorting_descriptive_v1.json
+sorting_tal_dense_v1.json
+
+# OS files
+.DS_Store

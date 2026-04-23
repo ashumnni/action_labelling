@@ -1,0 +1,794 @@
+[
+    {
+        "label": "cutting",
+        "start": 0,
+        "end": 5.0,
+        "action": "cutting"
+    },
+    {
+        "label": "arranging",
+        "start": 5.0,
+        "end": 8.0,
+        "action": "arranging"
+    },
+    {
+        "label": "cutting",
+        "start": 8.0,
+        "end": 15.0,
+        "action": "cutting"
+    },
+    {
+        "label": "transition",
+        "start": 15.0,
+        "end": 17.0,
+        "action": "transition"
+    },
+    {
+        "label": "cutting",
+        "start": 17.0,
+        "end": 37.0,
+        "action": "cutting"
+    },
+    {
+        "label": "preparation",
+        "start": 37.0,
+        "end": 40.0,
+        "action": "preparation"
+    },
+    {
+        "label": "cooking",
+        "start": 40.0,
+        "end": 80.0,
+        "action": "cooking"
+    },
+    {
+        "label": "preparation",
+        "start": 80.0,
+        "end": 100.0,
+        "action": "preparation"
+    },
+    {
+        "label": "retrieving",
+        "start": 100.0,
+        "end": 105.0,
+        "action": "retrieving"
+    },
+    {
+        "label": "opening fridge",
+        "start": 105.0,
+        "end": 107.0,
+        "action": "opening fridge"
+    },
+    {
+        "label": "walking",
+        "start": 107.0,
+        "end": 109.0,
+        "action": "walking"
+    },
+    {
+        "label": "grabbing herbs",
+        "start": 109.0,
+        "end": 110.0,
+        "action": "grabbing herbs"
+    },
+    {
+        "label": "preparation",
+        "start": 110.0,
+        "end": 113.0,
+        "action": "preparation"
+    },
+    {
+        "label": "walking",
+        "start": 113.0,
+        "end": 114.0,
+        "action": "walking"
+    },
+    {
+        "label": "washing",
+        "start": 114.0,
+        "end": 120.0,
+        "action": "washing"
+    },
+    {
+        "label": "walking",
+        "start": 120.0,
+        "end": 121.0,
+        "action": "walking"
+    },
+    {
+        "label": "sorting",
+        "start": 121.0,
+        "end": 123.0,
+        "action": "sorting"
+    },
+    {
+        "label": "chopping",
+        "start": 123.0,
+        "end": 125.0,
+        "action": "chopping"
+    },
+    {
+        "label": "cutting",
+        "start": 125.0,
+        "end": 134.0,
+        "action": "cutting"
+    },
+    {
+        "label": "stirring",
+        "start": 134.0,
+        "end": 135.0,
+        "action": "stirring"
+    },
+    {
+        "label": "cooking",
+        "start": 135.0,
+        "end": 145.0,
+        "action": "cooking"
+    },
+    {
+        "label": "picking",
+        "start": 145.0,
+        "end": 146.0,
+        "action": "picking"
+    },
+    {
+        "label": "holding",
+        "start": 146.0,
+        "end": 147.0,
+        "action": "holding"
+    },
+    {
+        "label": "stirring",
+        "start": 147.0,
+        "end": 149.0,
+        "action": "stirring"
+    },
+    {
+        "label": "covering",
+        "start": 149.0,
+        "end": 151.0,
+        "action": "covering"
+    },
+    {
+        "label": "transition",
+        "start": 151.0,
+        "end": 153.0,
+        "action": "transition"
+    },
+    {
+        "label": "picking",
+        "start": 153.0,
+        "end": 154.0,
+        "action": "picking"
+    },
+    {
+        "label": "stirring",
+        "start": 154.0,
+        "end": 171.0,
+        "action": "stirring"
+    },
+    {
+        "label": "adding ingredients",
+        "start": 171.0,
+        "end": 180.0,
+        "action": "adding ingredients"
+    },
+    {
+        "label": "mixing",
+        "start": 180.0,
+        "end": 183.0,
+        "action": "mixing"
+    },
+    {
+        "label": "cleaning",
+        "start": 183.0,
+        "end": 188.0,
+        "action": "cleaning"
+    },
+    {
+        "label": "moving",
+        "start": 188.0,
+        "end": 190.0,
+        "action": "moving"
+    },
+    {
+        "label": "reaching spices",
+        "start": 190.0,
+        "end": 192.0,
+        "action": "reaching spices"
+    },
+    {
+        "label": "stirring",
+        "start": 192.0,
+        "end": 205.0,
+        "action": "stirring"
+    },
+    {
+        "label": "adding ingredients",
+        "start": 205.0,
+        "end": 235.0,
+        "action": "adding ingredients"
+    },
+    {
+        "label": "slicing",
+        "start": 235.0,
+        "end": 237.0,
+        "action": "slicing"
+    },
+    {
+        "label": "transition",
+        "start": 237.0,
+        "end": 239.0,
+        "action": "transition"
+    },
+    {
+        "label": "cleaning",
+        "start": 239.0,
+        "end": 242.0,
+        "action": "cleaning"
+    },
+    {
+        "label": "cutting",
+        "start": 242.0,
+        "end": 247.0,
+        "action": "cutting"
+    },
+    {
+        "label": "moving",
+        "start": 247.0,
+        "end": 249.0,
+        "action": "moving"
+    },
+    {
+        "label": "adding",
+        "start": 249.0,
+        "end": 250.0,
+        "action": "adding"
+    },
+    {
+        "label": "wiping",
+        "start": 250.0,
+        "end": 257.0,
+        "action": "wiping"
+    },
+    {
+        "label": "adjusting",
+        "start": 257.0,
+        "end": 259.0,
+        "action": "adjusting"
+    },
+    {
+        "label": "stirring",
+        "start": 259.0,
+        "end": 260.0,
+        "action": "stirring"
+    },
+    {
+        "label": "holding package",
+        "start": 260.0,
+        "end": 262.0,
+        "action": "holding package"
+    },
+    {
+        "label": "placing package",
+        "start": 262.0,
+        "end": 264.0,
+        "action": "placing package"
+    },
+    {
+        "label": "handling lid",
+        "start": 264.0,
+        "end": 270.0,
+        "action": "handling lid"
+    },
+    {
+        "label": "stirring",
+        "start": 270.0,
+        "end": 272.0,
+        "action": "stirring"
+    },
+    {
+        "label": "covering",
+        "start": 272.0,
+        "end": 275.0,
+        "action": "covering"
+    },
+    {
+        "label": "transition",
+        "start": 275.0,
+        "end": 278.0,
+        "action": "transition"
+    },
+    {
+        "label": "cleaning",
+        "start": 278.0,
+        "end": 283.0,
+        "action": "cleaning"
+    },
+    {
+        "label": "organizing",
+        "start": 283.0,
+        "end": 285.0,
+        "action": "organizing"
+    },
+    {
+        "label": "arranging",
+        "start": 285.0,
+        "end": 287.0,
+        "action": "arranging"
+    },
+    {
+        "label": "placing",
+        "start": 287.0,
+        "end": 289.0,
+        "action": "placing"
+    },
+    {
+        "label": "washing",
+        "start": 289.0,
+        "end": 297.0,
+        "action": "washing"
+    },
+    {
+        "label": "transition",
+        "start": 297.0,
+        "end": 298.0,
+        "action": "transition"
+    },
+    {
+        "label": "walking",
+        "start": 298.0,
+        "end": 299.0,
+        "action": "walking"
+    },
+    {
+        "label": "picking",
+        "start": 299.0,
+        "end": 300.0,
+        "action": "picking"
+    },
+    {
+        "label": "walking",
+        "start": 300.0,
+        "end": 301.0,
+        "action": "walking"
+    },
+    {
+        "label": "placing",
+        "start": 301.0,
+        "end": 302.0,
+        "action": "placing"
+    },
+    {
+        "label": "walking",
+        "start": 302.0,
+        "end": 304.0,
+        "action": "walking"
+    },
+    {
+        "label": "carrying",
+        "start": 304.0,
+        "end": 305.0,
+        "action": "carrying"
+    },
+    {
+        "label": "placing item",
+        "start": 305.0,
+        "end": 306.0,
+        "action": "placing item"
+    },
+    {
+        "label": "reaching",
+        "start": 306.0,
+        "end": 307.0,
+        "action": "reaching"
+    },
+    {
+        "label": "grabbing container",
+        "start": 307.0,
+        "end": 308.0,
+        "action": "grabbing container"
+    },
+    {
+        "label": "reaching",
+        "start": 308.0,
+        "end": 309.0,
+        "action": "reaching"
+    },
+    {
+        "label": "retrieving item",
+        "start": 309.0,
+        "end": 310.0,
+        "action": "retrieving item"
+    },
+    {
+        "label": "closing lid",
+        "start": 310.0,
+        "end": 311.0,
+        "action": "closing lid"
+    },
+    {
+        "label": "holding bag",
+        "start": 311.0,
+        "end": 312.0,
+        "action": "holding bag"
+    },
+    {
+        "label": "moving",
+        "start": 312.0,
+        "end": 313.0,
+        "action": "moving"
+    },
+    {
+        "label": "placing pouch",
+        "start": 313.0,
+        "end": 314.0,
+        "action": "placing pouch"
+    },
+    {
+        "label": "picking pouch",
+        "start": 314.0,
+        "end": 315.0,
+        "action": "picking pouch"
+    },
+    {
+        "label": "opening fridge",
+        "start": 315.0,
+        "end": 317.0,
+        "action": "opening fridge"
+    },
+    {
+        "label": "closing fridge",
+        "start": 317.0,
+        "end": 318.0,
+        "action": "closing fridge"
+    },
+    {
+        "label": "transition",
+        "start": 318.0,
+        "end": 320.0,
+        "action": "transition"
+    },
+    {
+        "label": "cooking",
+        "start": 320.0,
+        "end": 321.0,
+        "action": "cooking"
+    },
+    {
+        "label": "turning knob",
+        "start": 321.0,
+        "end": 322.0,
+        "action": "turning knob"
+    },
+    {
+        "label": "reaching up",
+        "start": 322.0,
+        "end": 324.0,
+        "action": "reaching up"
+    },
+    {
+        "label": "cooking",
+        "start": 324.0,
+        "end": 335.0,
+        "action": "cooking"
+    },
+    {
+        "label": "stirring",
+        "start": 335.0,
+        "end": 345.0,
+        "action": "stirring"
+    },
+    {
+        "label": "adding spice",
+        "start": 345.0,
+        "end": 350.0,
+        "action": "adding spice"
+    },
+    {
+        "label": "scooping",
+        "start": 350.0,
+        "end": 352.0,
+        "action": "scooping"
+    },
+    {
+        "label": "stirring",
+        "start": 352.0,
+        "end": 353.0,
+        "action": "stirring"
+    },
+    {
+        "label": "closing",
+        "start": 353.0,
+        "end": 354.0,
+        "action": "closing"
+    },
+    {
+        "label": "moving",
+        "start": 354.0,
+        "end": 355.0,
+        "action": "moving"
+    },
+    {
+        "label": "opening",
+        "start": 355.0,
+        "end": 356.0,
+        "action": "opening"
+    },
+    {
+        "label": "bending",
+        "start": 356.0,
+        "end": 357.0,
+        "action": "bending"
+    },
+    {
+        "label": "closing",
+        "start": 357.0,
+        "end": 358.0,
+        "action": "closing"
+    },
+    {
+        "label": "scooping",
+        "start": 358.0,
+        "end": 360.0,
+        "action": "scooping"
+    },
+    {
+        "label": "adding to pan",
+        "start": 360.0,
+        "end": 361.0,
+        "action": "adding to pan"
+    },
+    {
+        "label": "closing container",
+        "start": 361.0,
+        "end": 363.0,
+        "action": "closing container"
+    },
+    {
+        "label": "reaching up",
+        "start": 363.0,
+        "end": 365.0,
+        "action": "reaching up"
+    },
+    {
+        "label": "putting container away",
+        "start": 365.0,
+        "end": 366.0,
+        "action": "putting container away"
+    },
+    {
+        "label": "cooking",
+        "start": 366.0,
+        "end": 369.0,
+        "action": "cooking"
+    },
+    {
+        "label": "stirring",
+        "start": 369.0,
+        "end": 370.0,
+        "action": "stirring"
+    },
+    {
+        "label": "turning away",
+        "start": 370.0,
+        "end": 371.0,
+        "action": "turning away"
+    },
+    {
+        "label": "walking",
+        "start": 371.0,
+        "end": 372.0,
+        "action": "walking"
+    },
+    {
+        "label": "opening fridge",
+        "start": 372.0,
+        "end": 373.0,
+        "action": "opening fridge"
+    },
+    {
+        "label": "reaching inside",
+        "start": 373.0,
+        "end": 374.0,
+        "action": "reaching inside"
+    },
+    {
+        "label": "searching fridge",
+        "start": 374.0,
+        "end": 375.0,
+        "action": "searching fridge"
+    },
+    {
+        "label": "holding item",
+        "start": 375.0,
+        "end": 376.0,
+        "action": "holding item"
+    },
+    {
+        "label": "walking",
+        "start": 376.0,
+        "end": 377.0,
+        "action": "walking"
+    },
+    {
+        "label": "preparing item",
+        "start": 377.0,
+        "end": 379.0,
+        "action": "preparing item"
+    },
+    {
+        "label": "cutting",
+        "start": 379.0,
+        "end": 390.0,
+        "action": "cutting"
+    },
+    {
+        "label": "adding ingredient",
+        "start": 390.0,
+        "end": 400.0,
+        "action": "adding ingredient"
+    },
+    {
+        "label": "preparation",
+        "start": 400.0,
+        "end": 402.0,
+        "action": "preparation"
+    },
+    {
+        "label": "stirring",
+        "start": 402.0,
+        "end": 406.0,
+        "action": "stirring"
+    },
+    {
+        "label": "adding spice",
+        "start": 406.0,
+        "end": 418.0,
+        "action": "adding spice"
+    },
+    {
+        "label": "closing container",
+        "start": 418.0,
+        "end": 420.0,
+        "action": "closing container"
+    },
+    {
+        "label": "placing container",
+        "start": 420.0,
+        "end": 422.0,
+        "action": "placing container"
+    },
+    {
+        "label": "opening container",
+        "start": 422.0,
+        "end": 424.0,
+        "action": "opening container"
+    },
+    {
+        "label": "adding spice",
+        "start": 424.0,
+        "end": 427.0,
+        "action": "adding spice"
+    },
+    {
+        "label": "closing container",
+        "start": 427.0,
+        "end": 430.0,
+        "action": "closing container"
+    },
+    {
+        "label": "retrieving",
+        "start": 430.0,
+        "end": 433.0,
+        "action": "retrieving"
+    },
+    {
+        "label": "placing",
+        "start": 433.0,
+        "end": 435.0,
+        "action": "placing"
+    },
+    {
+        "label": "transition",
+        "start": 435.0,
+        "end": 437.0,
+        "action": "transition"
+    },
+    {
+        "label": "walking",
+        "start": 437.0,
+        "end": 439.0,
+        "action": "walking"
+    },
+    {
+        "label": "opening",
+        "start": 439.0,
+        "end": 441.0,
+        "action": "opening"
+    },
+    {
+        "label": "searching",
+        "start": 441.0,
+        "end": 444.0,
+        "action": "searching"
+    },
+    {
+        "label": "closing",
+        "start": 444.0,
+        "end": 445.0,
+        "action": "closing"
+    },
+    {
+        "label": "fetching",
+        "start": 445.0,
+        "end": 450.0,
+        "action": "fetching"
+    },
+    {
+        "label": "holding",
+        "start": 450.0,
+        "end": 452.0,
+        "action": "holding"
+    },
+    {
+        "label": "placing",
+        "start": 452.0,
+        "end": 456.0,
+        "action": "placing"
+    },
+    {
+        "label": "retrieving item",
+        "start": 456.0,
+        "end": 470.0,
+        "action": "retrieving item"
+    },
+    {
+        "label": "closing fridge",
+        "start": 470.0,
+        "end": 475.0,
+        "action": "closing fridge"
+    },
+    {
+        "label": "preparation",
+        "start": 475.0,
+        "end": 480.0,
+        "action": "preparation"
+    },
+    {
+        "label": "cooking",
+        "start": 480.0,
+        "end": 570.0,
+        "action": "cooking"
+    },
+    {
+        "label": "fetching utensil",
+        "start": 570.0,
+        "end": 575.0,
+        "action": "fetching utensil"
+    },
+    {
+        "label": "adding ingredients",
+        "start": 575.0,
+        "end": 580.0,
+        "action": "adding ingredients"
+    },
+    {
+        "label": "preparation",
+        "start": 580.0,
+        "end": 585.0,
+        "action": "preparation"
+    },
+    {
+        "label": "tidying",
+        "start": 585.0,
+        "end": 590.0,
+        "action": "tidying"
+    },
+    {
+        "label": "moving",
+        "start": 590.0,
+        "end": 600.5535111111111,
+        "action": "moving"
+    }
+]

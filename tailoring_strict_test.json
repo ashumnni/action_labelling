@@ -1,0 +1,134 @@
+[
+    {
+        "start": 0.0,
+        "end": 2.0,
+        "label": "A person positions fabric under the sewing machine needle.",
+        "robot_command": "Position fabric under needle"
+    },
+    {
+        "start": 2.0,
+        "end": 5.0,
+        "label": "Scissors are used to trim excess thread from fabric edges.",
+        "robot_command": "Trim thread with scissors"
+    },
+    {
+        "start": 5.0,
+        "end": 10.0,
+        "label": "Holding fabric in place while using sewing machine",
+        "robot_command": "Hold fabric steady"
+    },
+    {
+        "start": 10.0,
+        "end": 11.0,
+        "label": "Person cuts through fabric using sharp scissors skillfully.",
+        "robot_command": "Cut fabric"
+    },
+    {
+        "start": 11.0,
+        "end": 12.0,
+        "label": "Removing fabric from sewing machine after stitching",
+        "robot_command": "Lift fabric away"
+    },
+    {
+        "start": 12.0,
+        "end": 15.0,
+        "label": "Inspecting sewn fabric closely for any stitching errors",
+        "robot_command": "Inspect sewn fabric"
+    },
+    {
+        "start": 15.0,
+        "end": 17.0,
+        "label": "Person folds and inspects fabric after cutting is completed.",
+        "robot_command": "Inspect cut fabric"
+    },
+    {
+        "start": 17.0,
+        "end": 18.0,
+        "label": "Fabric is turned over and smoothed out on the table surface.",
+        "robot_command": "Turn and smooth fabric"
+    },
+    {
+        "start": 18.0,
+        "end": 21.0,
+        "label": "Adjusting the fabric to align for precise stitching process.",
+        "robot_command": "Align fabric for stitching"
+    },
+    {
+        "start": 21.0,
+        "end": 22.0,
+        "label": "Position fabric evenly along sewing machine needle area.",
+        "robot_command": "Position fabric"
+    },
+    {
+        "start": 22.0,
+        "end": 25.0,
+        "label": "Guiding fabric under sewing machine needle for stitching.",
+        "robot_command": "Guide fabric under needle"
+    },
+    {
+        "start": 25.0,
+        "end": 28.0,
+        "label": "Guide fabric steadily into sewing machine for stitching.",
+        "robot_command": "Guide fabric into machine"
+    },
+    {
+        "start": 28.0,
+        "end": 30.0,
+        "label": "Securing fabric position and making final adjustments before stitching.",
+        "robot_command": "Secure and adjust fabric"
+    },
+    {
+        "start": 30.0,
+        "end": 35.0,
+        "label": "Hold fabric securely while machine stitches it together.",
+        "robot_command": "Hold fabric"
+    },
+    {
+        "start": 35.0,
+        "end": 39.0,
+        "label": "Guiding the fabric towards the needle on sewing machine",
+        "robot_command": "Guide fabric to needle"
+    },
+    {
+        "start": 39.0,
+        "end": 42.0,
+        "label": "Person guides fabric straight through the sewing machine",
+        "robot_command": "Guide fabric through machine"
+    },
+    {
+        "start": 42.0,
+        "end": 46.0,
+        "label": "Person adjusts the fabric while continuing to sew it",
+        "robot_command": "Adjust fabric"
+    },
+    {
+        "start": 46.0,
+        "end": 50.0,
+        "label": "Hands guide fabric under sewing machine needle precisely.",
+        "robot_command": "Guide fabric under needle"
+    },
+    {
+        "start": 50.0,
+        "end": 52.0,
+        "label": "Position fabric edge under sewing machine needle carefully",
+        "robot_command": "Position fabric under needle"
+    },
+    {
+        "start": 52.0,
+        "end": 55.0,
+        "label": "Fabric is sewn, needle moves creating stitch along line.",
+        "robot_command": "Sew fabric"
+    },
+    {
+        "start": 55.0,
+        "end": 57.0,
+        "label": "Adjust fabric orientation slightly with both hands",
+        "robot_command": "Adjust fabric orientation"
+    },
+    {
+        "start": 57.0,
+        "end": 60.0,
+        "label": "Sewing machine continues, fabric passes steadily under presser foot.",
+        "robot_command": "Continue sewing"
+    }
+]

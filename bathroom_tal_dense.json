@@ -1,0 +1,524 @@
+[
+    {
+        "label": "wiping",
+        "start": 0,
+        "end": 30.0,
+        "action": "wiping"
+    },
+    {
+        "label": "cleaning",
+        "start": 30.0,
+        "end": 39.0,
+        "action": "cleaning"
+    },
+    {
+        "label": "wringing",
+        "start": 39.0,
+        "end": 40.0,
+        "action": "wringing"
+    },
+    {
+        "label": "cleaning",
+        "start": 40.0,
+        "end": 43.0,
+        "action": "cleaning"
+    },
+    {
+        "label": "polishing",
+        "start": 43.0,
+        "end": 45.0,
+        "action": "polishing"
+    },
+    {
+        "label": "unscrewing",
+        "start": 45.0,
+        "end": 53.0,
+        "action": "unscrewing"
+    },
+    {
+        "label": "cleaning",
+        "start": 53.0,
+        "end": 60.0,
+        "action": "cleaning"
+    },
+    {
+        "label": "adjusting",
+        "start": 60.0,
+        "end": 62.0,
+        "action": "adjusting"
+    },
+    {
+        "label": "flushing",
+        "start": 62.0,
+        "end": 63.0,
+        "action": "flushing"
+    },
+    {
+        "label": "testing",
+        "start": 63.0,
+        "end": 65.0,
+        "action": "testing"
+    },
+    {
+        "label": "observing",
+        "start": 65.0,
+        "end": 67.0,
+        "action": "observing"
+    },
+    {
+        "label": "turning handle",
+        "start": 67.0,
+        "end": 70.0,
+        "action": "turning handle"
+    },
+    {
+        "label": "adjusting",
+        "start": 70.0,
+        "end": 73.0,
+        "action": "adjusting"
+    },
+    {
+        "label": "rinsing",
+        "start": 73.0,
+        "end": 75.0,
+        "action": "rinsing"
+    },
+    {
+        "label": "cleaning",
+        "start": 75.0,
+        "end": 85.0,
+        "action": "cleaning"
+    },
+    {
+        "label": "rinsing",
+        "start": 85.0,
+        "end": 89.0,
+        "action": "rinsing"
+    },
+    {
+        "label": "final check",
+        "start": 89.0,
+        "end": 92.0,
+        "action": "final check"
+    },
+    {
+        "label": "rinsing",
+        "start": 92.0,
+        "end": 120.0,
+        "action": "rinsing"
+    },
+    {
+        "label": "organizing",
+        "start": 120.0,
+        "end": 150.0,
+        "action": "organizing"
+    },
+    {
+        "label": "preparation",
+        "start": 150.0,
+        "end": 151.0,
+        "action": "preparation"
+    },
+    {
+        "label": "cleaning",
+        "start": 151.0,
+        "end": 157.0,
+        "action": "cleaning"
+    },
+    {
+        "label": "scrubbing",
+        "start": 157.0,
+        "end": 165.0,
+        "action": "scrubbing"
+    },
+    {
+        "label": "wiping",
+        "start": 165.0,
+        "end": 166.0,
+        "action": "wiping"
+    },
+    {
+        "label": "transition",
+        "start": 166.0,
+        "end": 167.0,
+        "action": "transition"
+    },
+    {
+        "label": "cleaning",
+        "start": 167.0,
+        "end": 170.0,
+        "action": "cleaning"
+    },
+    {
+        "label": "arranging",
+        "start": 170.0,
+        "end": 185.0,
+        "action": "arranging"
+    },
+    {
+        "label": "cleaning",
+        "start": 185.0,
+        "end": 190.0,
+        "action": "cleaning"
+    },
+    {
+        "label": "transition",
+        "start": 190.0,
+        "end": 195.0,
+        "action": "transition"
+    },
+    {
+        "label": "scrubbing",
+        "start": 195.0,
+        "end": 216.0,
+        "action": "scrubbing"
+    },
+    {
+        "label": "arranging",
+        "start": 216.0,
+        "end": 230.0,
+        "action": "arranging"
+    },
+    {
+        "label": "wiping",
+        "start": 230.0,
+        "end": 260.0,
+        "action": "wiping"
+    },
+    {
+        "label": "cleaning sink",
+        "start": 260.0,
+        "end": 261.0,
+        "action": "cleaning sink"
+    },
+    {
+        "label": "cleaning toilet",
+        "start": 261.0,
+        "end": 274.0,
+        "action": "cleaning toilet"
+    },
+    {
+        "label": "arranging",
+        "start": 274.0,
+        "end": 285.0,
+        "action": "arranging"
+    },
+    {
+        "label": "sweeping",
+        "start": 285.0,
+        "end": 300.0,
+        "action": "sweeping"
+    },
+    {
+        "label": "preparation",
+        "start": 300.0,
+        "end": 310.0,
+        "action": "preparation"
+    },
+    {
+        "label": "scraping",
+        "start": 310.0,
+        "end": 316.0,
+        "action": "scraping"
+    },
+    {
+        "label": "wiping",
+        "start": 316.0,
+        "end": 325.0,
+        "action": "wiping"
+    },
+    {
+        "label": "scrubbing",
+        "start": 325.0,
+        "end": 327.0,
+        "action": "scrubbing"
+    },
+    {
+        "label": "transition",
+        "start": 327.0,
+        "end": 328.0,
+        "action": "transition"
+    },
+    {
+        "label": "scrubbing",
+        "start": 328.0,
+        "end": 332.0,
+        "action": "scrubbing"
+    },
+    {
+        "label": "cleaning",
+        "start": 332.0,
+        "end": 340.0,
+        "action": "cleaning"
+    },
+    {
+        "label": "organizing",
+        "start": 340.0,
+        "end": 350.0,
+        "action": "organizing"
+    },
+    {
+        "label": "preparation",
+        "start": 350.0,
+        "end": 360.0,
+        "action": "preparation"
+    },
+    {
+        "label": "cleaning",
+        "start": 360.0,
+        "end": 371.0,
+        "action": "cleaning"
+    },
+    {
+        "label": "picking up",
+        "start": 371.0,
+        "end": 374.0,
+        "action": "picking up"
+    },
+    {
+        "label": "transition",
+        "start": 374.0,
+        "end": 375.0,
+        "action": "transition"
+    },
+    {
+        "label": "scrubbing",
+        "start": 375.0,
+        "end": 376.0,
+        "action": "scrubbing"
+    },
+    {
+        "label": "pouring",
+        "start": 376.0,
+        "end": 377.0,
+        "action": "pouring"
+    },
+    {
+        "label": "transition",
+        "start": 377.0,
+        "end": 378.0,
+        "action": "transition"
+    },
+    {
+        "label": "holding",
+        "start": 378.0,
+        "end": 380.0,
+        "action": "holding"
+    },
+    {
+        "label": "retrieving items",
+        "start": 380.0,
+        "end": 390.0,
+        "action": "retrieving items"
+    },
+    {
+        "label": "pouring liquid",
+        "start": 390.0,
+        "end": 392.0,
+        "action": "pouring liquid"
+    },
+    {
+        "label": "moving back",
+        "start": 392.0,
+        "end": 394.0,
+        "action": "moving back"
+    },
+    {
+        "label": "cleaning",
+        "start": 394.0,
+        "end": 399.0,
+        "action": "cleaning"
+    },
+    {
+        "label": "squeegeeing",
+        "start": 399.0,
+        "end": 410.0,
+        "action": "squeegeeing"
+    },
+    {
+        "label": "wiping",
+        "start": 410.0,
+        "end": 415.0,
+        "action": "wiping"
+    },
+    {
+        "label": "squeegeeing",
+        "start": 415.0,
+        "end": 430.0,
+        "action": "squeegeeing"
+    },
+    {
+        "label": "cleaning",
+        "start": 430.0,
+        "end": 444.0,
+        "action": "cleaning"
+    },
+    {
+        "label": "transition",
+        "start": 444.0,
+        "end": 445.0,
+        "action": "transition"
+    },
+    {
+        "label": "wiping",
+        "start": 445.0,
+        "end": 450.0,
+        "action": "wiping"
+    },
+    {
+        "label": "scrubbing",
+        "start": 450.0,
+        "end": 456.0,
+        "action": "scrubbing"
+    },
+    {
+        "label": "wiping",
+        "start": 456.0,
+        "end": 465.0,
+        "action": "wiping"
+    },
+    {
+        "label": "cleaning",
+        "start": 465.0,
+        "end": 477.0,
+        "action": "cleaning"
+    },
+    {
+        "label": "transition",
+        "start": 477.0,
+        "end": 479.0,
+        "action": "transition"
+    },
+    {
+        "label": "door opening",
+        "start": 479.0,
+        "end": 480.0,
+        "action": "door opening"
+    },
+    {
+        "label": "walking",
+        "start": 480.0,
+        "end": 490.0,
+        "action": "walking"
+    },
+    {
+        "label": "sitting",
+        "start": 490.0,
+        "end": 495.0,
+        "action": "sitting"
+    },
+    {
+        "label": "standing",
+        "start": 495.0,
+        "end": 500.0,
+        "action": "standing"
+    },
+    {
+        "label": "moving objects",
+        "start": 500.0,
+        "end": 505.0,
+        "action": "moving objects"
+    },
+    {
+        "label": "standing",
+        "start": 505.0,
+        "end": 510.0,
+        "action": "standing"
+    },
+    {
+        "label": "walking",
+        "start": 510.0,
+        "end": 515.0,
+        "action": "walking"
+    },
+    {
+        "label": "adjusting hose",
+        "start": 515.0,
+        "end": 519.0,
+        "action": "adjusting hose"
+    },
+    {
+        "label": "spraying water",
+        "start": 519.0,
+        "end": 525.0,
+        "action": "spraying water"
+    },
+    {
+        "label": "turning off tap",
+        "start": 525.0,
+        "end": 527.0,
+        "action": "turning off tap"
+    },
+    {
+        "label": "cleaning floor",
+        "start": 527.0,
+        "end": 534.0,
+        "action": "cleaning floor"
+    },
+    {
+        "label": "preparation",
+        "start": 534.0,
+        "end": 535.0,
+        "action": "preparation"
+    },
+    {
+        "label": "transition",
+        "start": 535.0,
+        "end": 537.0,
+        "action": "transition"
+    },
+    {
+        "label": "scrubbing",
+        "start": 537.0,
+        "end": 542.0,
+        "action": "scrubbing"
+    },
+    {
+        "label": "transition",
+        "start": 542.0,
+        "end": 544.0,
+        "action": "transition"
+    },
+    {
+        "label": "organizing",
+        "start": 544.0,
+        "end": 547.0,
+        "action": "organizing"
+    },
+    {
+        "label": "transition",
+        "start": 547.0,
+        "end": 548.0,
+        "action": "transition"
+    },
+    {
+        "label": "scrubbing",
+        "start": 548.0,
+        "end": 576.0,
+        "action": "scrubbing"
+    },
+    {
+        "label": "wiping",
+        "start": 576.0,
+        "end": 584.0,
+        "action": "wiping"
+    },
+    {
+        "label": "scrubbing",
+        "start": 584.0,
+        "end": 589.0,
+        "action": "scrubbing"
+    },
+    {
+        "label": "wiping",
+        "start": 589.0,
+        "end": 596.0,
+        "action": "wiping"
+    },
+    {
+        "label": "adjusting cloth",
+        "start": 596.0,
+        "end": 600.5620333333333,
+        "action": "adjusting cloth"
+    }
+]

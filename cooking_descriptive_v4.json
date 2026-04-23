@@ -1,0 +1,1502 @@
+[
+    {
+        "label": "The person is finely chopping fresh green chilies on a board",
+        "start": 0,
+        "end": 5.0,
+        "action": "The person is finely chopping fresh green chilies on a board"
+    },
+    {
+        "label": "Hands are swiftly chopping the onion into smaller pieces",
+        "start": 5.0,
+        "end": 10.0,
+        "action": "Hands are swiftly chopping the onion into smaller pieces"
+    },
+    {
+        "label": "The person is slicing green vegetables on the chopping board",
+        "start": 10.0,
+        "end": 14.0,
+        "action": "The person is slicing green vegetables on the chopping board"
+    },
+    {
+        "label": "The human is repositioning the vegetable for more precise cutting",
+        "start": 14.0,
+        "end": 15.0,
+        "action": "The human is repositioning the vegetable for more precise cutting"
+    },
+    {
+        "label": "They continue to chop the vegetables into smaller uniform pieces",
+        "start": 15.0,
+        "end": 19.0,
+        "action": "They continue to chop the vegetables into smaller uniform pieces"
+    },
+    {
+        "label": "The human is now gathering the chopped vegetables with their hands",
+        "start": 19.0,
+        "end": 21.0,
+        "action": "The human is now gathering the chopped vegetables with their hands"
+    },
+    {
+        "label": "The person is cleaning the chopping board with a knife edge",
+        "start": 21.0,
+        "end": 23.0,
+        "action": "The person is cleaning the chopping board with a knife edge"
+    },
+    {
+        "label": "The human is placing the knife down and moving away",
+        "start": 23.0,
+        "end": 25.0,
+        "action": "The human is placing the knife down and moving away"
+    },
+    {
+        "label": "Person is cutting green vegetables into small pieces on the board",
+        "start": 25.0,
+        "end": 37.0,
+        "action": "Person is cutting green vegetables into small pieces on the board"
+    },
+    {
+        "label": "The human moves to the left toward a collection of spices",
+        "start": 37.0,
+        "end": 38.0,
+        "action": "The human moves to the left toward a collection of spices"
+    },
+    {
+        "label": "The person is mixing ingredients inside of a metal frying pan",
+        "start": 38.0,
+        "end": 40.0,
+        "action": "The person is mixing ingredients inside of a metal frying pan"
+    },
+    {
+        "label": "Spices are being sprinkled onto the heated pan with precision",
+        "start": 40.0,
+        "end": 42.0,
+        "action": "Spices are being sprinkled onto the heated pan with precision"
+    },
+    {
+        "label": "Person is moving hand back to the collection of spices again",
+        "start": 42.0,
+        "end": 44.0,
+        "action": "Person is moving hand back to the collection of spices again"
+    },
+    {
+        "label": "The human reaches to stop actions and observe the cooking",
+        "start": 44.0,
+        "end": 45.0,
+        "action": "The human reaches to stop actions and observe the cooking"
+    },
+    {
+        "label": "The cook stirs food in the frying pan using a metal cooking spoon",
+        "start": 45.0,
+        "end": 46.0,
+        "action": "The cook stirs food in the frying pan using a metal cooking spoon"
+    },
+    {
+        "label": "The person is stirring ingredients inside a pan on the stove",
+        "start": 46.0,
+        "end": 50.0,
+        "action": "The person is stirring ingredients inside a pan on the stove"
+    },
+    {
+        "label": "Hands are opening a drawer to find a cooking utensil",
+        "start": 50.0,
+        "end": 53.0,
+        "action": "Hands are opening a drawer to find a cooking utensil"
+    },
+    {
+        "label": "The person selects a utensil from the drawer and closes it",
+        "start": 53.0,
+        "end": 54.0,
+        "action": "The person selects a utensil from the drawer and closes it"
+    },
+    {
+        "label": "Utensil is being used to stir ingredients inside the cooking pan",
+        "start": 54.0,
+        "end": 56.0,
+        "action": "Utensil is being used to stir ingredients inside the cooking pan"
+    },
+    {
+        "label": "The human is now moving their body to reach for another object",
+        "start": 56.0,
+        "end": 58.0,
+        "action": "The human is now moving their body to reach for another object"
+    },
+    {
+        "label": "They are opening a packet and adding contents into the pan",
+        "start": 58.0,
+        "end": 60.0,
+        "action": "They are opening a packet and adding contents into the pan"
+    },
+    {
+        "label": "The person is adjusting the ingredients on the cutting board",
+        "start": 60.0,
+        "end": 61.0,
+        "action": "The person is adjusting the ingredients on the cutting board"
+    },
+    {
+        "label": "The person is adjusting the pan on the stovetop carefully",
+        "start": 61.0,
+        "end": 62.0,
+        "action": "The person is adjusting the pan on the stovetop carefully"
+    },
+    {
+        "label": "Person slowly transfers chopped vegetables from board to pan",
+        "start": 62.0,
+        "end": 64.0,
+        "action": "Person slowly transfers chopped vegetables from board to pan"
+    },
+    {
+        "label": "Hands are pouring vegetables into the hot pan from the board",
+        "start": 64.0,
+        "end": 65.0,
+        "action": "Hands are pouring vegetables into the hot pan from the board"
+    },
+    {
+        "label": "The person is stirring the ingredients inside the heated skillet",
+        "start": 65.0,
+        "end": 67.0,
+        "action": "The person is stirring the ingredients inside the heated skillet"
+    },
+    {
+        "label": "The person is adding more sliced vegetables from the board to the pan",
+        "start": 67.0,
+        "end": 70.0,
+        "action": "The person is adding more sliced vegetables from the board to the pan"
+    },
+    {
+        "label": "The person is stirring food in the pan with a utensil",
+        "start": 70.0,
+        "end": 72.0,
+        "action": "The person is stirring food in the pan with a utensil"
+    },
+    {
+        "label": "The person is stirring the cooking ingredients using a metal spatula",
+        "start": 72.0,
+        "end": 73.0,
+        "action": "The person is stirring the cooking ingredients using a metal spatula"
+    },
+    {
+        "label": "The person is adding chopped vegetables into the cooking pan",
+        "start": 73.0,
+        "end": 75.0,
+        "action": "The person is adding chopped vegetables into the cooking pan"
+    },
+    {
+        "label": "The human is now adjusting the position of the cutting board",
+        "start": 75.0,
+        "end": 76.0,
+        "action": "The human is now adjusting the position of the cutting board"
+    },
+    {
+        "label": "The person is placing more vegetables into the hot cooking pan",
+        "start": 76.0,
+        "end": 77.0,
+        "action": "The person is placing more vegetables into the hot cooking pan"
+    },
+    {
+        "label": "The person is stirring the vegetables evenly in the pan",
+        "start": 77.0,
+        "end": 79.0,
+        "action": "The person is stirring the vegetables evenly in the pan"
+    },
+    {
+        "label": "The person is pouring ingredients into the pot from the package",
+        "start": 79.0,
+        "end": 80.0,
+        "action": "The person is pouring ingredients into the pot from the package"
+    },
+    {
+        "label": "The person is stirring the cooking mixture using the utensil",
+        "start": 80.0,
+        "end": 84.0,
+        "action": "The person is stirring the cooking mixture using the utensil"
+    },
+    {
+        "label": "The human is now stepping back to observe the stove's contents",
+        "start": 84.0,
+        "end": 85.0,
+        "action": "The human is now stepping back to observe the stove's contents"
+    },
+    {
+        "label": "Hands are organizing a few green herbs over the kitchen counter",
+        "start": 85.0,
+        "end": 90.0,
+        "action": "Hands are organizing a few green herbs over the kitchen counter"
+    },
+    {
+        "label": "Person is gathering fresh herbs from the plastic bag on counter",
+        "start": 90.0,
+        "end": 92.0,
+        "action": "Person is gathering fresh herbs from the plastic bag on counter"
+    },
+    {
+        "label": "Individual starts carefully chopping the fresh green herbs on board",
+        "start": 92.0,
+        "end": 94.0,
+        "action": "Individual starts carefully chopping the fresh green herbs on board"
+    },
+    {
+        "label": "They finish cutting herbs and place them aside on the cutting board",
+        "start": 94.0,
+        "end": 95.0,
+        "action": "They finish cutting herbs and place them aside on the cutting board"
+    },
+    {
+        "label": "The person is now securing the leftover herbs in a plastic bag",
+        "start": 95.0,
+        "end": 97.0,
+        "action": "The person is now securing the leftover herbs in a plastic bag"
+    },
+    {
+        "label": "Individual is moving towards the refrigerator holding the herb bag",
+        "start": 97.0,
+        "end": 99.0,
+        "action": "Individual is moving towards the refrigerator holding the herb bag"
+    },
+    {
+        "label": "Human opens the refrigerator door to store the herbs inside",
+        "start": 99.0,
+        "end": 101.0,
+        "action": "Human opens the refrigerator door to store the herbs inside"
+    },
+    {
+        "label": "The person is reaching into the refrigerator and grabbing a bag",
+        "start": 101.0,
+        "end": 104.0,
+        "action": "The person is reaching into the refrigerator and grabbing a bag"
+    },
+    {
+        "label": "The individual closes the refrigerator door after storing the herbs",
+        "start": 104.0,
+        "end": 105.0,
+        "action": "The individual closes the refrigerator door after storing the herbs"
+    },
+    {
+        "label": "The person is closing the refrigerator door with their hand",
+        "start": 105.0,
+        "end": 107.0,
+        "action": "The person is closing the refrigerator door with their hand"
+    },
+    {
+        "label": "The person is walking away from the refrigerator toward the counter",
+        "start": 107.0,
+        "end": 108.0,
+        "action": "The person is walking away from the refrigerator toward the counter"
+    },
+    {
+        "label": "The person is placing the bag onto the kitchen counter carefully",
+        "start": 108.0,
+        "end": 109.0,
+        "action": "The person is placing the bag onto the kitchen counter carefully"
+    },
+    {
+        "label": "The person is picking up a bunch of greens from the counter",
+        "start": 109.0,
+        "end": 110.0,
+        "action": "The person is picking up a bunch of greens from the counter"
+    },
+    {
+        "label": "The person is removing leaves from the bunch of greens methodically",
+        "start": 110.0,
+        "end": 112.0,
+        "action": "The person is removing leaves from the bunch of greens methodically"
+    },
+    {
+        "label": "The person is walking towards the sink with greens in hand",
+        "start": 112.0,
+        "end": 113.0,
+        "action": "The person is walking towards the sink with greens in hand"
+    },
+    {
+        "label": "The person is reaching for a faucet at the kitchen sink area",
+        "start": 113.0,
+        "end": 115.0,
+        "action": "The person is reaching for a faucet at the kitchen sink area"
+    },
+    {
+        "label": "The person is washing the coriander leaves under running water",
+        "start": 115.0,
+        "end": 118.0,
+        "action": "The person is washing the coriander leaves under running water"
+    },
+    {
+        "label": "The person is washing dishes with running water in the sink",
+        "start": 118.0,
+        "end": 120.0,
+        "action": "The person is washing dishes with running water in the sink"
+    },
+    {
+        "label": "The human is now moving their body to reach for another object",
+        "start": 120.0,
+        "end": 122.0,
+        "action": "The human is now moving their body to reach for another object"
+    },
+    {
+        "label": "The person is returning with the washed herbs to the counter",
+        "start": 122.0,
+        "end": 123.0,
+        "action": "The person is returning with the washed herbs to the counter"
+    },
+    {
+        "label": "The individual is chopping vegetables with a knife on the board",
+        "start": 123.0,
+        "end": 130.0,
+        "action": "The individual is chopping vegetables with a knife on the board"
+    },
+    {
+        "label": "The person is using a knife to slice red vegetables carefully",
+        "start": 130.0,
+        "end": 132.0,
+        "action": "The person is using a knife to slice red vegetables carefully"
+    },
+    {
+        "label": "Person transitions to pick up chopped herbs from cutting board",
+        "start": 132.0,
+        "end": 133.0,
+        "action": "Person transitions to pick up chopped herbs from cutting board"
+    },
+    {
+        "label": "Person adds the chopped herbs into the pan with saut\u00e9ing vegetables",
+        "start": 133.0,
+        "end": 135.0,
+        "action": "Person adds the chopped herbs into the pan with saut\u00e9ing vegetables"
+    },
+    {
+        "label": "Individual is stirring the vegetables inside a cooking pan swiftly",
+        "start": 135.0,
+        "end": 137.0,
+        "action": "Individual is stirring the vegetables inside a cooking pan swiftly"
+    },
+    {
+        "label": "The person is stirring vegetables in the metal pan using a spatula",
+        "start": 137.0,
+        "end": 141.0,
+        "action": "The person is stirring vegetables in the metal pan using a spatula"
+    },
+    {
+        "label": "The individual is reaching for the chopped vegetables on the green board",
+        "start": 141.0,
+        "end": 143.0,
+        "action": "The individual is reaching for the chopped vegetables on the green board"
+    },
+    {
+        "label": "The person opens the drawer to grab a metal lid from inside",
+        "start": 143.0,
+        "end": 146.0,
+        "action": "The person opens the drawer to grab a metal lid from inside"
+    },
+    {
+        "label": "The person is opening a drawer to retrieve a metal lid",
+        "start": 146.0,
+        "end": 147.0,
+        "action": "The person is opening a drawer to retrieve a metal lid"
+    },
+    {
+        "label": "The person covers the cooking pan with the lid in their hand",
+        "start": 147.0,
+        "end": 150.0,
+        "action": "The person covers the cooking pan with the lid in their hand"
+    },
+    {
+        "label": "Hands are reaching to organize spices in small circular containers",
+        "start": 150.0,
+        "end": 153.0,
+        "action": "Hands are reaching to organize spices in small circular containers"
+    },
+    {
+        "label": "The person is turning to add spices onto a hot frying pan",
+        "start": 153.0,
+        "end": 156.0,
+        "action": "The person is turning to add spices onto a hot frying pan"
+    },
+    {
+        "label": "The person is using a spatula to stir the mixture in pan",
+        "start": 156.0,
+        "end": 161.0,
+        "action": "The person is using a spatula to stir the mixture in pan"
+    },
+    {
+        "label": "The person continues stirring with spatula to evenly cook ingredients",
+        "start": 161.0,
+        "end": 165.0,
+        "action": "The person continues stirring with spatula to evenly cook ingredients"
+    },
+    {
+        "label": "The person is stirring vegetables inside the frying pan using spatula",
+        "start": 165.0,
+        "end": 171.0,
+        "action": "The person is stirring vegetables inside the frying pan using spatula"
+    },
+    {
+        "label": "The person moves to the right to begin preparing more ingredients",
+        "start": 171.0,
+        "end": 172.0,
+        "action": "The person moves to the right to begin preparing more ingredients"
+    },
+    {
+        "label": "Hands are mixing the raw meat inside the metal bowl thoroughly",
+        "start": 172.0,
+        "end": 176.0,
+        "action": "Hands are mixing the raw meat inside the metal bowl thoroughly"
+    },
+    {
+        "label": "The person is adding raw meat pieces into cooking pan on stove",
+        "start": 176.0,
+        "end": 191.0,
+        "action": "The person is adding raw meat pieces into cooking pan on stove"
+    },
+    {
+        "label": "The person is arranging various spices and ingredients on the counter",
+        "start": 191.0,
+        "end": 194.0,
+        "action": "The person is arranging various spices and ingredients on the counter"
+    },
+    {
+        "label": "The person stirs the contents in a pan using a cooking spoon carefully",
+        "start": 194.0,
+        "end": 196.0,
+        "action": "The person stirs the contents in a pan using a cooking spoon carefully"
+    },
+    {
+        "label": "The person is stirring a pan of food with a wooden spoon",
+        "start": 196.0,
+        "end": 198.0,
+        "action": "The person is stirring a pan of food with a wooden spoon"
+    },
+    {
+        "label": "The person continues to mix the ingredients in the frying pan",
+        "start": 198.0,
+        "end": 199.0,
+        "action": "The person continues to mix the ingredients in the frying pan"
+    },
+    {
+        "label": "The individual adds more ingredients into the cooking pan carefully",
+        "start": 199.0,
+        "end": 203.0,
+        "action": "The individual adds more ingredients into the cooking pan carefully"
+    },
+    {
+        "label": "The person places a lid on the pan to let the food simmer",
+        "start": 203.0,
+        "end": 205.0,
+        "action": "The person places a lid on the pan to let the food simmer"
+    },
+    {
+        "label": "The person is stirring the mixture in the frying pan carefully",
+        "start": 205.0,
+        "end": 207.0,
+        "action": "The person is stirring the mixture in the frying pan carefully"
+    },
+    {
+        "label": "The human moves to another pan and begins to stir its contents",
+        "start": 207.0,
+        "end": 208.0,
+        "action": "The human moves to another pan and begins to stir its contents"
+    },
+    {
+        "label": "The individual reaches for the green cutting board and vegetables",
+        "start": 208.0,
+        "end": 209.0,
+        "action": "The individual reaches for the green cutting board and vegetables"
+    },
+    {
+        "label": "The person transfers chopped vegetables from board to the pan",
+        "start": 209.0,
+        "end": 211.0,
+        "action": "The person transfers chopped vegetables from board to the pan"
+    },
+    {
+        "label": "The person adds more vegetables from the green cutting board",
+        "start": 211.0,
+        "end": 213.0,
+        "action": "The person adds more vegetables from the green cutting board"
+    },
+    {
+        "label": "The person continues to cook and stirs the ingredients in pan",
+        "start": 213.0,
+        "end": 215.0,
+        "action": "The person continues to cook and stirs the ingredients in pan"
+    },
+    {
+        "label": "The individual places remaining vegetables into the sizzling pan",
+        "start": 215.0,
+        "end": 217.0,
+        "action": "The individual places remaining vegetables into the sizzling pan"
+    },
+    {
+        "label": "The person stirs mixed ingredients ensuring they are evenly cooked",
+        "start": 217.0,
+        "end": 219.0,
+        "action": "The person stirs mixed ingredients ensuring they are evenly cooked"
+    },
+    {
+        "label": "The human is now moving their body to reach for another object",
+        "start": 219.0,
+        "end": 220.0,
+        "action": "The human is now moving their body to reach for another object"
+    },
+    {
+        "label": "The person picks up a small item and moves toward the stove",
+        "start": 220.0,
+        "end": 222.0,
+        "action": "The person picks up a small item and moves toward the stove"
+    },
+    {
+        "label": "The person reaches up to open a cupboard above the counter",
+        "start": 222.0,
+        "end": 225.0,
+        "action": "The person reaches up to open a cupboard above the counter"
+    },
+    {
+        "label": "The person is picking up a container from the kitchen counter",
+        "start": 225.0,
+        "end": 226.0,
+        "action": "The person is picking up a container from the kitchen counter"
+    },
+    {
+        "label": "The individual is reaching to place the container on a shelf",
+        "start": 226.0,
+        "end": 227.0,
+        "action": "The individual is reaching to place the container on a shelf"
+    },
+    {
+        "label": "Person pulls back their hand after placing the container on shelf",
+        "start": 227.0,
+        "end": 228.0,
+        "action": "Person pulls back their hand after placing the container on shelf"
+    },
+    {
+        "label": "The person is positioning another container on the green cutting board",
+        "start": 228.0,
+        "end": 229.0,
+        "action": "The person is positioning another container on the green cutting board"
+    },
+    {
+        "label": "The individual is arranging containers on the kitchen counter",
+        "start": 229.0,
+        "end": 230.0,
+        "action": "The individual is arranging containers on the kitchen counter"
+    },
+    {
+        "label": "The person is preparing vegetables next to a cutting board",
+        "start": 230.0,
+        "end": 234.0,
+        "action": "The person is preparing vegetables next to a cutting board"
+    },
+    {
+        "label": "The person is slicing vegetables on the kitchen countertop",
+        "start": 234.0,
+        "end": 236.0,
+        "action": "The person is slicing vegetables on the kitchen countertop"
+    },
+    {
+        "label": "The human is now moving their body to reach for another object",
+        "start": 236.0,
+        "end": 237.0,
+        "action": "The human is now moving their body to reach for another object"
+    },
+    {
+        "label": "The individual approaches the sink area to retrieve an item",
+        "start": 237.0,
+        "end": 238.0,
+        "action": "The individual approaches the sink area to retrieve an item"
+    },
+    {
+        "label": "The person walks back towards the cooking area with an item",
+        "start": 238.0,
+        "end": 239.0,
+        "action": "The person walks back towards the cooking area with an item"
+    },
+    {
+        "label": "The person is holding a cloth and wiping the kitchen counter",
+        "start": 239.0,
+        "end": 241.0,
+        "action": "The person is holding a cloth and wiping the kitchen counter"
+    },
+    {
+        "label": "The person uses a cloth to wipe down the countertop",
+        "start": 241.0,
+        "end": 245.0,
+        "action": "The person uses a cloth to wipe down the countertop"
+    },
+    {
+        "label": "Hands are chopping onions on a cutting board in kitchen",
+        "start": 245.0,
+        "end": 246.0,
+        "action": "Hands are chopping onions on a cutting board in kitchen"
+    },
+    {
+        "label": "Hands are collecting small cut vegetables from the cutting board",
+        "start": 246.0,
+        "end": 247.0,
+        "action": "Hands are collecting small cut vegetables from the cutting board"
+    },
+    {
+        "label": "The person is turning towards a metal sink with a utensil",
+        "start": 247.0,
+        "end": 248.0,
+        "action": "The person is turning towards a metal sink with a utensil"
+    },
+    {
+        "label": "Hands are placing chopped onions into a metal bowl container",
+        "start": 248.0,
+        "end": 249.0,
+        "action": "Hands are placing chopped onions into a metal bowl container"
+    },
+    {
+        "label": "Person transfers small pieces into a metal pot on the side",
+        "start": 249.0,
+        "end": 250.0,
+        "action": "Person transfers small pieces into a metal pot on the side"
+    },
+    {
+        "label": "The human walks back to the area with the chopping board",
+        "start": 250.0,
+        "end": 251.0,
+        "action": "The human walks back to the area with the chopping board"
+    },
+    {
+        "label": "The person uses a cloth to clean the surface again",
+        "start": 251.0,
+        "end": 256.0,
+        "action": "The person uses a cloth to clean the surface again"
+    },
+    {
+        "label": "Hands are readjusting the position of items on the counter",
+        "start": 256.0,
+        "end": 258.0,
+        "action": "Hands are readjusting the position of items on the counter"
+    },
+    {
+        "label": "Person is picking up a spice packet from the counter with hand",
+        "start": 258.0,
+        "end": 260.0,
+        "action": "Person is picking up a spice packet from the counter with hand"
+    },
+    {
+        "label": "The person holds a packet while checking the cooking pans",
+        "start": 260.0,
+        "end": 261.0,
+        "action": "The person holds a packet while checking the cooking pans"
+    },
+    {
+        "label": "The individual places the packet down to use both hands freely",
+        "start": 261.0,
+        "end": 262.0,
+        "action": "The individual places the packet down to use both hands freely"
+    },
+    {
+        "label": "Their hand moves across the countertop to adjust the position",
+        "start": 262.0,
+        "end": 263.0,
+        "action": "Their hand moves across the countertop to adjust the position"
+    },
+    {
+        "label": "The person rubs their hands over a cloth for cleaning purposes",
+        "start": 263.0,
+        "end": 264.0,
+        "action": "The person rubs their hands over a cloth for cleaning purposes"
+    },
+    {
+        "label": "Both hands are now directing attention towards the spice containers",
+        "start": 264.0,
+        "end": 265.0,
+        "action": "Both hands are now directing attention towards the spice containers"
+    },
+    {
+        "label": "The person is handling metal lids placed near the cooking area",
+        "start": 265.0,
+        "end": 266.0,
+        "action": "The person is handling metal lids placed near the cooking area"
+    },
+    {
+        "label": "The person is reaching for a metal lid on the counter",
+        "start": 266.0,
+        "end": 267.0,
+        "action": "The person is reaching for a metal lid on the counter"
+    },
+    {
+        "label": "The human aligns the metal lids and places them neatly aside",
+        "start": 267.0,
+        "end": 268.0,
+        "action": "The human aligns the metal lids and places them neatly aside"
+    },
+    {
+        "label": "Hands are placing the metal lid onto a cooking pot securely",
+        "start": 268.0,
+        "end": 269.0,
+        "action": "Hands are placing the metal lid onto a cooking pot securely"
+    },
+    {
+        "label": "The person adjusts the contents of the cooking pan with a spatula",
+        "start": 269.0,
+        "end": 270.0,
+        "action": "The person adjusts the contents of the cooking pan with a spatula"
+    },
+    {
+        "label": "The individual is moving towards the stove with a cloth",
+        "start": 270.0,
+        "end": 271.0,
+        "action": "The individual is moving towards the stove with a cloth"
+    },
+    {
+        "label": "The human cleans the cooking surface using a textured fabric",
+        "start": 271.0,
+        "end": 272.0,
+        "action": "The human cleans the cooking surface using a textured fabric"
+    },
+    {
+        "label": "The person is using a cloth to handle the hot pot",
+        "start": 272.0,
+        "end": 273.0,
+        "action": "The person is using a cloth to handle the hot pot"
+    },
+    {
+        "label": "The person moves away from the counter to prepare another task",
+        "start": 273.0,
+        "end": 274.0,
+        "action": "The person moves away from the counter to prepare another task"
+    },
+    {
+        "label": "Hands are reaching to close another metal pot on countertop",
+        "start": 274.0,
+        "end": 275.0,
+        "action": "Hands are reaching to close another metal pot on countertop"
+    },
+    {
+        "label": "The person places a lid on a vessel and adjusts its position",
+        "start": 275.0,
+        "end": 277.0,
+        "action": "The person places a lid on a vessel and adjusts its position"
+    },
+    {
+        "label": "Hands are picking up a blue board from the kitchen counter",
+        "start": 277.0,
+        "end": 279.0,
+        "action": "Hands are picking up a blue board from the kitchen counter"
+    },
+    {
+        "label": "The human is wiping the kitchen counter with a cloth carefully",
+        "start": 279.0,
+        "end": 281.0,
+        "action": "The human is wiping the kitchen counter with a cloth carefully"
+    },
+    {
+        "label": "The person is wiping the kitchen counter with a cloth",
+        "start": 281.0,
+        "end": 284.0,
+        "action": "The person is wiping the kitchen counter with a cloth"
+    },
+    {
+        "label": "The individual is organizing items around the kitchen countertop",
+        "start": 284.0,
+        "end": 285.0,
+        "action": "The individual is organizing items around the kitchen countertop"
+    },
+    {
+        "label": "The person is standing at the kitchen counter preparing utensils",
+        "start": 285.0,
+        "end": 286.0,
+        "action": "The person is standing at the kitchen counter preparing utensils"
+    },
+    {
+        "label": "The human is turning towards the sink and grabbing a bowl",
+        "start": 286.0,
+        "end": 288.0,
+        "action": "The human is turning towards the sink and grabbing a bowl"
+    },
+    {
+        "label": "Hands are placing the bowl into the sink with other dishes",
+        "start": 288.0,
+        "end": 289.0,
+        "action": "Hands are placing the bowl into the sink with other dishes"
+    },
+    {
+        "label": "The human is now moving their body to reach for another object",
+        "start": 289.0,
+        "end": 290.0,
+        "action": "The human is now moving their body to reach for another object"
+    },
+    {
+        "label": "The person is filling a bowl with water from the faucet",
+        "start": 290.0,
+        "end": 293.0,
+        "action": "The person is filling a bowl with water from the faucet"
+    },
+    {
+        "label": "Hands are washing a dish using water and a sponge",
+        "start": 293.0,
+        "end": 297.0,
+        "action": "Hands are washing a dish using water and a sponge"
+    },
+    {
+        "label": "The person is rinsing the dish under running water thoroughly",
+        "start": 297.0,
+        "end": 299.0,
+        "action": "The person is rinsing the dish under running water thoroughly"
+    },
+    {
+        "label": "The human is moving away from the sink toward the countertop",
+        "start": 299.0,
+        "end": 300.0,
+        "action": "The human is moving away from the sink toward the countertop"
+    },
+    {
+        "label": "The person is holding a container in their right hand",
+        "start": 300.0,
+        "end": 301.0,
+        "action": "The person is holding a container in their right hand"
+    },
+    {
+        "label": "The individual is placing an object near the kitchen sink",
+        "start": 301.0,
+        "end": 302.0,
+        "action": "The individual is placing an object near the kitchen sink"
+    },
+    {
+        "label": "The person reaches up towards an upper kitchen shelf",
+        "start": 302.0,
+        "end": 303.0,
+        "action": "The person reaches up towards an upper kitchen shelf"
+    },
+    {
+        "label": "The human is moving away from the kitchen countertop area",
+        "start": 303.0,
+        "end": 304.0,
+        "action": "The human is moving away from the kitchen countertop area"
+    },
+    {
+        "label": "The individual is walking across the kitchen towards another area",
+        "start": 304.0,
+        "end": 305.0,
+        "action": "The individual is walking across the kitchen towards another area"
+    },
+    {
+        "label": "Moving the container to the left side of the kitchen counter",
+        "start": 305.0,
+        "end": 306.0,
+        "action": "Moving the container to the left side of the kitchen counter"
+    },
+    {
+        "label": "They open the container and begin reaching for something inside",
+        "start": 306.0,
+        "end": 307.0,
+        "action": "They open the container and begin reaching for something inside"
+    },
+    {
+        "label": "The person shifts their body and grabs a blue container nearby",
+        "start": 307.0,
+        "end": 308.0,
+        "action": "The person shifts their body and grabs a blue container nearby"
+    },
+    {
+        "label": "They open the blue container and look inside to find contents",
+        "start": 308.0,
+        "end": 309.0,
+        "action": "They open the blue container and look inside to find contents"
+    },
+    {
+        "label": "The individual lifts a large jar and starts closing the container",
+        "start": 309.0,
+        "end": 310.0,
+        "action": "The individual lifts a large jar and starts closing the container"
+    },
+    {
+        "label": "The person places the jar down and seals the container's lid tightly",
+        "start": 310.0,
+        "end": 311.0,
+        "action": "The person places the jar down and seals the container's lid tightly"
+    },
+    {
+        "label": "With both hands, they take the black bag and move quickly left",
+        "start": 311.0,
+        "end": 312.0,
+        "action": "With both hands, they take the black bag and move quickly left"
+    },
+    {
+        "label": "They walk across the kitchen carrying the black bag carefully",
+        "start": 312.0,
+        "end": 313.0,
+        "action": "They walk across the kitchen carrying the black bag carefully"
+    },
+    {
+        "label": "The individual puts the black bag down and approaches sink area",
+        "start": 313.0,
+        "end": 314.0,
+        "action": "The individual puts the black bag down and approaches sink area"
+    },
+    {
+        "label": "They pick up a purple and yellow pack then examine it closely",
+        "start": 314.0,
+        "end": 315.0,
+        "action": "They pick up a purple and yellow pack then examine it closely"
+    },
+    {
+        "label": "The individual is now walking to the refrigerator nearby",
+        "start": 315.0,
+        "end": 320.0,
+        "action": "The individual is now walking to the refrigerator nearby"
+    },
+    {
+        "label": "They are checking the stove with two pans cooking ingredients",
+        "start": 320.0,
+        "end": 325.0,
+        "action": "They are checking the stove with two pans cooking ingredients"
+    },
+    {
+        "label": "The person is stirring vegetables in the hot frying pan carefully",
+        "start": 325.0,
+        "end": 328.0,
+        "action": "The person is stirring vegetables in the hot frying pan carefully"
+    },
+    {
+        "label": "The food is being evenly mixed with a cooking spatula",
+        "start": 328.0,
+        "end": 329.0,
+        "action": "The food is being evenly mixed with a cooking spatula"
+    },
+    {
+        "label": "The human is moving their body to reach for another object",
+        "start": 329.0,
+        "end": 331.0,
+        "action": "The human is moving their body to reach for another object"
+    },
+    {
+        "label": "The person is stirring mixed vegetables in a hot pan",
+        "start": 331.0,
+        "end": 334.0,
+        "action": "The person is stirring mixed vegetables in a hot pan"
+    },
+    {
+        "label": "Hands are stirring diced chicken in a separate cooking pan",
+        "start": 334.0,
+        "end": 335.0,
+        "action": "Hands are stirring diced chicken in a separate cooking pan"
+    },
+    {
+        "label": "The person transitions to stirring another pan on the stovetop",
+        "start": 335.0,
+        "end": 336.0,
+        "action": "The person transitions to stirring another pan on the stovetop"
+    },
+    {
+        "label": "The person is stirring the cooking ingredients inside the pan gently",
+        "start": 336.0,
+        "end": 342.0,
+        "action": "The person is stirring the cooking ingredients inside the pan gently"
+    },
+    {
+        "label": "The person continues to stir the chicken and looks around",
+        "start": 342.0,
+        "end": 343.0,
+        "action": "The person continues to stir the chicken and looks around"
+    },
+    {
+        "label": "The person is stirring the contents of the frying pan",
+        "start": 343.0,
+        "end": 345.0,
+        "action": "The person is stirring the contents of the frying pan"
+    },
+    {
+        "label": "Hands are using a utensil to mix vegetables thoroughly in another pan",
+        "start": 345.0,
+        "end": 346.0,
+        "action": "Hands are using a utensil to mix vegetables thoroughly in another pan"
+    },
+    {
+        "label": "Person is adjusting the position of the frying pans on stove",
+        "start": 346.0,
+        "end": 347.0,
+        "action": "Person is adjusting the position of the frying pans on stove"
+    },
+    {
+        "label": "The person is moving away from the stove to reach for a container",
+        "start": 347.0,
+        "end": 348.0,
+        "action": "The person is moving away from the stove to reach for a container"
+    },
+    {
+        "label": "Person is opening the container to reveal its contents inside",
+        "start": 348.0,
+        "end": 350.0,
+        "action": "Person is opening the container to reveal its contents inside"
+    },
+    {
+        "label": "Person is adding the contents of the container into the pan",
+        "start": 350.0,
+        "end": 353.0,
+        "action": "Person is adding the contents of the container into the pan"
+    },
+    {
+        "label": "The person closes the container and places it back safely",
+        "start": 353.0,
+        "end": 355.0,
+        "action": "The person closes the container and places it back safely"
+    },
+    {
+        "label": "The individual bends down slightly to pick up the fallen lid",
+        "start": 355.0,
+        "end": 356.0,
+        "action": "The individual bends down slightly to pick up the fallen lid"
+    },
+    {
+        "label": "They hold the lid while adjusting the seasoning container in hand",
+        "start": 356.0,
+        "end": 357.0,
+        "action": "They hold the lid while adjusting the seasoning container in hand"
+    },
+    {
+        "label": "The person returns to the counter to close the container securely",
+        "start": 357.0,
+        "end": 358.0,
+        "action": "The person returns to the counter to close the container securely"
+    },
+    {
+        "label": "They place the closed container back onto the kitchen counter surface",
+        "start": 358.0,
+        "end": 360.0,
+        "action": "They place the closed container back onto the kitchen counter surface"
+    },
+    {
+        "label": "Person stirs the colorful mixture in the hot frying pan",
+        "start": 360.0,
+        "end": 362.0,
+        "action": "Person stirs the colorful mixture in the hot frying pan"
+    },
+    {
+        "label": "Person closes the spice container tightly with its blue lid",
+        "start": 362.0,
+        "end": 364.0,
+        "action": "Person closes the spice container tightly with its blue lid"
+    },
+    {
+        "label": "Person reaches up to place the container back on the shelf",
+        "start": 364.0,
+        "end": 366.0,
+        "action": "Person reaches up to place the container back on the shelf"
+    },
+    {
+        "label": "Person returns to the cooking area with spice container again",
+        "start": 366.0,
+        "end": 367.0,
+        "action": "Person returns to the cooking area with spice container again"
+    },
+    {
+        "label": "Person stirs the cooking ingredients again in the frying pan",
+        "start": 367.0,
+        "end": 370.0,
+        "action": "Person stirs the cooking ingredients again in the frying pan"
+    },
+    {
+        "label": "Person moves away from stove towards the kitchen refrigerator",
+        "start": 370.0,
+        "end": 372.0,
+        "action": "Person moves away from stove towards the kitchen refrigerator"
+    },
+    {
+        "label": "Person opens the refrigerator door to retrieve fresh items",
+        "start": 372.0,
+        "end": 375.0,
+        "action": "Person opens the refrigerator door to retrieve fresh items"
+    },
+    {
+        "label": "The person is holding a green citrus fruit with both hands",
+        "start": 375.0,
+        "end": 376.0,
+        "action": "The person is holding a green citrus fruit with both hands"
+    },
+    {
+        "label": "The person is turning the green citrus fruit between hands",
+        "start": 376.0,
+        "end": 377.0,
+        "action": "The person is turning the green citrus fruit between hands"
+    },
+    {
+        "label": "The person places the green citrus fruit on the chopping board",
+        "start": 377.0,
+        "end": 378.0,
+        "action": "The person places the green citrus fruit on the chopping board"
+    },
+    {
+        "label": "The human uses a knife to slice the citrus fruit in half",
+        "start": 378.0,
+        "end": 380.0,
+        "action": "The human uses a knife to slice the citrus fruit in half"
+    },
+    {
+        "label": "The person adjusts their grip to slice the fruit more evenly",
+        "start": 380.0,
+        "end": 382.0,
+        "action": "The person adjusts their grip to slice the fruit more evenly"
+    },
+    {
+        "label": "The person continues slicing the citrus fruit into thin sections",
+        "start": 382.0,
+        "end": 384.0,
+        "action": "The person continues slicing the citrus fruit into thin sections"
+    },
+    {
+        "label": "The fruit is being cut completely into several round slices",
+        "start": 384.0,
+        "end": 386.0,
+        "action": "The fruit is being cut completely into several round slices"
+    },
+    {
+        "label": "The person is examining the slices to ensure even thickness",
+        "start": 386.0,
+        "end": 388.0,
+        "action": "The person is examining the slices to ensure even thickness"
+    },
+    {
+        "label": "The person is organizing the slices neatly on the chopping board",
+        "start": 388.0,
+        "end": 390.0,
+        "action": "The person is organizing the slices neatly on the chopping board"
+    },
+    {
+        "label": "The person is slicing a cucumber on the green cutting board",
+        "start": 390.0,
+        "end": 391.0,
+        "action": "The person is slicing a cucumber on the green cutting board"
+    },
+    {
+        "label": "The person is holding the cucumber slices near the yellow container",
+        "start": 391.0,
+        "end": 392.0,
+        "action": "The person is holding the cucumber slices near the yellow container"
+    },
+    {
+        "label": "The person is dropping cucumber slices into saute pan with vegetables",
+        "start": 392.0,
+        "end": 393.0,
+        "action": "The person is dropping cucumber slices into saute pan with vegetables"
+    },
+    {
+        "label": "The person is stirring the mixture in the saute pan on the stove",
+        "start": 393.0,
+        "end": 394.0,
+        "action": "The person is stirring the mixture in the saute pan on the stove"
+    },
+    {
+        "label": "The person is picking up more chopped cucumber from the cutting board",
+        "start": 394.0,
+        "end": 395.0,
+        "action": "The person is picking up more chopped cucumber from the cutting board"
+    },
+    {
+        "label": "The human is now moving their body to reach for another object",
+        "start": 395.0,
+        "end": 396.0,
+        "action": "The human is now moving their body to reach for another object"
+    },
+    {
+        "label": "The person is inspecting cucumber slices in their hands over table",
+        "start": 396.0,
+        "end": 397.0,
+        "action": "The person is inspecting cucumber slices in their hands over table"
+    },
+    {
+        "label": "The person is adding additional cucumber slices to the saute pan",
+        "start": 397.0,
+        "end": 398.0,
+        "action": "The person is adding additional cucumber slices to the saute pan"
+    },
+    {
+        "label": "The person is stirring the new addition in the saute pan with spoon",
+        "start": 398.0,
+        "end": 399.0,
+        "action": "The person is stirring the new addition in the saute pan with spoon"
+    },
+    {
+        "label": "The person is again taking chopped vegetables from cutting board",
+        "start": 399.0,
+        "end": 400.0,
+        "action": "The person is again taking chopped vegetables from cutting board"
+    },
+    {
+        "label": "The person stirs the colorful vegetables in the hot frying pan",
+        "start": 400.0,
+        "end": 405.0,
+        "action": "The person stirs the colorful vegetables in the hot frying pan"
+    },
+    {
+        "label": "The person adds chopped vegetables to the pan and mixes them",
+        "start": 405.0,
+        "end": 410.0,
+        "action": "The person adds chopped vegetables to the pan and mixes them"
+    },
+    {
+        "label": "The person moves to grab a container from the counter",
+        "start": 410.0,
+        "end": 412.0,
+        "action": "The person moves to grab a container from the counter"
+    },
+    {
+        "label": "The person opens the container and looks inside to inspect contents",
+        "start": 412.0,
+        "end": 415.0,
+        "action": "The person opens the container and looks inside to inspect contents"
+    },
+    {
+        "label": "The person is adding red spices to the cooking pot",
+        "start": 415.0,
+        "end": 418.0,
+        "action": "The person is adding red spices to the cooking pot"
+    },
+    {
+        "label": "The person is placing the spice container back on the counter",
+        "start": 418.0,
+        "end": 420.0,
+        "action": "The person is placing the spice container back on the counter"
+    },
+    {
+        "label": "Hands are closing the container with a blue lid carefully",
+        "start": 420.0,
+        "end": 422.0,
+        "action": "Hands are closing the container with a blue lid carefully"
+    },
+    {
+        "label": "The person is opening another container with a blue lid",
+        "start": 422.0,
+        "end": 424.0,
+        "action": "The person is opening another container with a blue lid"
+    },
+    {
+        "label": "A spoon is being used to scoop yellow powder into pot",
+        "start": 424.0,
+        "end": 427.0,
+        "action": "A spoon is being used to scoop yellow powder into pot"
+    },
+    {
+        "label": "The container is closed again and returned to its place",
+        "start": 427.0,
+        "end": 430.0,
+        "action": "The container is closed again and returned to its place"
+    },
+    {
+        "label": "The human is now moving their body to reach for another object",
+        "start": 430.0,
+        "end": 431.0,
+        "action": "The human is now moving their body to reach for another object"
+    },
+    {
+        "label": "The person is reaching up to grab a plastic container",
+        "start": 431.0,
+        "end": 433.0,
+        "action": "The person is reaching up to grab a plastic container"
+    },
+    {
+        "label": "The person places the container back on the countertop",
+        "start": 433.0,
+        "end": 434.0,
+        "action": "The person places the container back on the countertop"
+    },
+    {
+        "label": "The person is turning away from the kitchen counter",
+        "start": 434.0,
+        "end": 436.0,
+        "action": "The person is turning away from the kitchen counter"
+    },
+    {
+        "label": "The person is walking toward the refrigerator in the kitchen",
+        "start": 436.0,
+        "end": 437.0,
+        "action": "The person is walking toward the refrigerator in the kitchen"
+    },
+    {
+        "label": "The person opens the refrigerator door with their left hand",
+        "start": 437.0,
+        "end": 438.0,
+        "action": "The person opens the refrigerator door with their left hand"
+    },
+    {
+        "label": "The person begins reaching inside to grab packaged food items",
+        "start": 438.0,
+        "end": 440.0,
+        "action": "The person begins reaching inside to grab packaged food items"
+    },
+    {
+        "label": "The person holds the package while looking inside the fridge",
+        "start": 440.0,
+        "end": 442.0,
+        "action": "The person holds the package while looking inside the fridge"
+    },
+    {
+        "label": "The person places the item back inside the refrigerator carefully",
+        "start": 442.0,
+        "end": 444.0,
+        "action": "The person places the item back inside the refrigerator carefully"
+    },
+    {
+        "label": "The person starts closing the refrigerator door slowly",
+        "start": 444.0,
+        "end": 445.0,
+        "action": "The person starts closing the refrigerator door slowly"
+    },
+    {
+        "label": "A person is reaching and grabbing an item from the fridge",
+        "start": 445.0,
+        "end": 448.0,
+        "action": "A person is reaching and grabbing an item from the fridge"
+    },
+    {
+        "label": "The human is now moving their body to reach for another object",
+        "start": 448.0,
+        "end": 450.0,
+        "action": "The human is now moving their body to reach for another object"
+    },
+    {
+        "label": "The individual is organizing items in the fridge shelf efficiently",
+        "start": 450.0,
+        "end": 453.0,
+        "action": "The individual is organizing items in the fridge shelf efficiently"
+    },
+    {
+        "label": "A hand is reaching into the fridge to pick another product",
+        "start": 453.0,
+        "end": 456.0,
+        "action": "A hand is reaching into the fridge to pick another product"
+    },
+    {
+        "label": "The person is removing items from inside the refrigerator",
+        "start": 456.0,
+        "end": 465.0,
+        "action": "The person is removing items from inside the refrigerator"
+    },
+    {
+        "label": "The person is closing the refrigerator and adjusting items",
+        "start": 465.0,
+        "end": 470.0,
+        "action": "The person is closing the refrigerator and adjusting items"
+    },
+    {
+        "label": "The human is now moving their body to reach for another object",
+        "start": 470.0,
+        "end": 475.0,
+        "action": "The human is now moving their body to reach for another object"
+    },
+    {
+        "label": "The person is taking a box of ingredients towards the stove",
+        "start": 475.0,
+        "end": 480.0,
+        "action": "The person is taking a box of ingredients towards the stove"
+    },
+    {
+        "label": "The person is placing ingredients on the kitchen countertop",
+        "start": 480.0,
+        "end": 485.0,
+        "action": "The person is placing ingredients on the kitchen countertop"
+    },
+    {
+        "label": "The person is cooking food in a pan on the stove",
+        "start": 485.0,
+        "end": 510.0,
+        "action": "The person is cooking food in a pan on the stove"
+    },
+    {
+        "label": "The individual is moving from one pan to another on the counter",
+        "start": 510.0,
+        "end": 515.0,
+        "action": "The individual is moving from one pan to another on the counter"
+    },
+    {
+        "label": "Hands are handling both the cooking pans simultaneously on the stove",
+        "start": 515.0,
+        "end": 520.0,
+        "action": "Hands are handling both the cooking pans simultaneously on the stove"
+    },
+    {
+        "label": "The person is opening a container to add something to the pan",
+        "start": 520.0,
+        "end": 523.0,
+        "action": "The person is opening a container to add something to the pan"
+    },
+    {
+        "label": "Individual is adding ingredients from container into the pan on stove",
+        "start": 523.0,
+        "end": 525.0,
+        "action": "Individual is adding ingredients from container into the pan on stove"
+    },
+    {
+        "label": "The person is stirring the pot of food with a spatula",
+        "start": 525.0,
+        "end": 530.0,
+        "action": "The person is stirring the pot of food with a spatula"
+    },
+    {
+        "label": "The individual is adjusting the position of the pot on the stove",
+        "start": 530.0,
+        "end": 535.0,
+        "action": "The individual is adjusting the position of the pot on the stove"
+    },
+    {
+        "label": "The person continues to stir the mixture inside the cooking pot",
+        "start": 535.0,
+        "end": 540.0,
+        "action": "The person continues to stir the mixture inside the cooking pot"
+    },
+    {
+        "label": "The individual is now tasting the dish using a clean spoon",
+        "start": 540.0,
+        "end": 545.0,
+        "action": "The individual is now tasting the dish using a clean spoon"
+    },
+    {
+        "label": "The person is stirring the contents in the frying pan vigorously",
+        "start": 545.0,
+        "end": 546.0,
+        "action": "The person is stirring the contents in the frying pan vigorously"
+    },
+    {
+        "label": "The person continues to mix and adjust the stove heat knob",
+        "start": 546.0,
+        "end": 547.0,
+        "action": "The person continues to mix and adjust the stove heat knob"
+    },
+    {
+        "label": "The person uses a spatula to stir the dish consistently again",
+        "start": 547.0,
+        "end": 548.0,
+        "action": "The person uses a spatula to stir the dish consistently again"
+    },
+    {
+        "label": "The human ensures even cooking by stirring the ingredients thoroughly",
+        "start": 548.0,
+        "end": 549.0,
+        "action": "The human ensures even cooking by stirring the ingredients thoroughly"
+    },
+    {
+        "label": "The person briefly pauses and checks the progress of the dish",
+        "start": 549.0,
+        "end": 550.0,
+        "action": "The person briefly pauses and checks the progress of the dish"
+    },
+    {
+        "label": "The person is setting aside the cooked food on the counter",
+        "start": 550.0,
+        "end": 570.0,
+        "action": "The person is setting aside the cooked food on the counter"
+    },
+    {
+        "label": "The person is grinding ingredients using a grinder machine",
+        "start": 570.0,
+        "end": 580.0,
+        "action": "The person is grinding ingredients using a grinder machine"
+    },
+    {
+        "label": "The person is holding a metal cup after using the grinder",
+        "start": 580.0,
+        "end": 585.0,
+        "action": "The person is holding a metal cup after using the grinder"
+    },
+    {
+        "label": "The human is now moving their body to reach for another object",
+        "start": 585.0,
+        "end": 590.0,
+        "action": "The human is now moving their body to reach for another object"
+    },
+    {
+        "label": "The person is walking across the kitchen holding a metal cup",
+        "start": 590.0,
+        "end": 600.5535111111111,
+        "action": "The person is walking across the kitchen holding a metal cup"
+    }
+]

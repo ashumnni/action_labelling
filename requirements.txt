@@ -1,0 +1,10 @@
+torch>=1.10.0
+torchvision
+numpy
+opencv-python
+scikit-learn
+tqdm
+transformers
+decord
+openai
+python-dotenv

@@ -1,0 +1,1016 @@
+[
+    {
+        "label": "The person is sewing fabric with a sewing machine carefully",
+        "start": 0,
+        "end": 5.0,
+        "action": "The person is sewing fabric with a sewing machine carefully"
+    },
+    {
+        "label": "Hands are adjusting the fabric to ensure proper alignment",
+        "start": 5.0,
+        "end": 10.0,
+        "action": "Hands are adjusting the fabric to ensure proper alignment"
+    },
+    {
+        "label": "Hands are aligning the fabric edges under the presser foot",
+        "start": 10.0,
+        "end": 20.0,
+        "action": "Hands are aligning the fabric edges under the presser foot"
+    },
+    {
+        "label": "Hands are placing fabric beneath the sewing machine needle",
+        "start": 20.0,
+        "end": 22.0,
+        "action": "Hands are placing fabric beneath the sewing machine needle"
+    },
+    {
+        "label": "Person aligns fabric edges carefully while holding them together",
+        "start": 22.0,
+        "end": 25.0,
+        "action": "Person aligns fabric edges carefully while holding them together"
+    },
+    {
+        "label": "The individual begins sewing the fabric using the sewing machine",
+        "start": 25.0,
+        "end": 29.0,
+        "action": "The individual begins sewing the fabric using the sewing machine"
+    },
+    {
+        "label": "Hands guide the fabric steadily along the sewing machine line",
+        "start": 29.0,
+        "end": 33.0,
+        "action": "Hands guide the fabric steadily along the sewing machine line"
+    },
+    {
+        "label": "The person slightly adjusts the fabric to ensure smooth operation",
+        "start": 33.0,
+        "end": 35.0,
+        "action": "The person slightly adjusts the fabric to ensure smooth operation"
+    },
+    {
+        "label": "The human is now adjusting the fabric to prevent any folds",
+        "start": 35.0,
+        "end": 50.0,
+        "action": "The human is now adjusting the fabric to prevent any folds"
+    },
+    {
+        "label": "Hands are guiding the fabric steadily as machine stitches continue",
+        "start": 50.0,
+        "end": 70.0,
+        "action": "Hands are guiding the fabric steadily as machine stitches continue"
+    },
+    {
+        "label": "Hands are holding fabric to align it correctly for sewing",
+        "start": 70.0,
+        "end": 72.0,
+        "action": "Hands are holding fabric to align it correctly for sewing"
+    },
+    {
+        "label": "The sewing machine needle is moving rapidly through the fabric",
+        "start": 72.0,
+        "end": 77.0,
+        "action": "The sewing machine needle is moving rapidly through the fabric"
+    },
+    {
+        "label": "The person is repositioning the fabric to continue sewing direction",
+        "start": 77.0,
+        "end": 81.0,
+        "action": "The person is repositioning the fabric to continue sewing direction"
+    },
+    {
+        "label": "The individual is pressing down fabric with fingers for accuracy",
+        "start": 81.0,
+        "end": 85.0,
+        "action": "The individual is pressing down fabric with fingers for accuracy"
+    },
+    {
+        "label": "The person is holding fabric steadily while using the sewing machine",
+        "start": 85.0,
+        "end": 87.0,
+        "action": "The person is holding fabric steadily while using the sewing machine"
+    },
+    {
+        "label": "The person is carefully sewing fabric on a sewing machine",
+        "start": 87.0,
+        "end": 95.0,
+        "action": "The person is carefully sewing fabric on a sewing machine"
+    },
+    {
+        "label": "The individual adjusts the fabric position using both hands",
+        "start": 95.0,
+        "end": 105.0,
+        "action": "The individual adjusts the fabric position using both hands"
+    },
+    {
+        "label": "Person is carefully guiding fabric through the sewing machine",
+        "start": 105.0,
+        "end": 110.0,
+        "action": "Person is carefully guiding fabric through the sewing machine"
+    },
+    {
+        "label": "Right hand is adjusting a dial on the sewing machine",
+        "start": 110.0,
+        "end": 111.0,
+        "action": "Right hand is adjusting a dial on the sewing machine"
+    },
+    {
+        "label": "The human adjusts fabric and examines stitches closely and carefully",
+        "start": 111.0,
+        "end": 115.0,
+        "action": "The human adjusts fabric and examines stitches closely and carefully"
+    },
+    {
+        "label": "Hands reposition fabric and prepare for further sewing work",
+        "start": 115.0,
+        "end": 120.0,
+        "action": "Hands reposition fabric and prepare for further sewing work"
+    },
+    {
+        "label": "The human picks up scissors and cuts thread on fabric",
+        "start": 120.0,
+        "end": 122.0,
+        "action": "The human picks up scissors and cuts thread on fabric"
+    },
+    {
+        "label": "The person adjusts and folds fabric edges neatly and precisely",
+        "start": 122.0,
+        "end": 125.0,
+        "action": "The person adjusts and folds fabric edges neatly and precisely"
+    },
+    {
+        "label": "The person examines the stitched fabric to ensure seam quality",
+        "start": 125.0,
+        "end": 140.0,
+        "action": "The person examines the stitched fabric to ensure seam quality"
+    },
+    {
+        "label": "The individual is folding the fabric piece for a final inspection",
+        "start": 140.0,
+        "end": 150.0,
+        "action": "The individual is folding the fabric piece for a final inspection"
+    },
+    {
+        "label": "The person is adjusting the fabric under the sewing needle",
+        "start": 150.0,
+        "end": 151.0,
+        "action": "The person is adjusting the fabric under the sewing needle"
+    },
+    {
+        "label": "The individual is lifting and inspecting a piece of fabric",
+        "start": 151.0,
+        "end": 153.0,
+        "action": "The individual is lifting and inspecting a piece of fabric"
+    },
+    {
+        "label": "Hands are positioning fabric under sewing machine needle carefully",
+        "start": 153.0,
+        "end": 155.0,
+        "action": "Hands are positioning fabric under sewing machine needle carefully"
+    },
+    {
+        "label": "The person is smoothly guiding the fabric through sewing machine",
+        "start": 155.0,
+        "end": 156.0,
+        "action": "The person is smoothly guiding the fabric through sewing machine"
+    },
+    {
+        "label": "Hands are guiding the fabric under the sewing machine needle",
+        "start": 156.0,
+        "end": 157.0,
+        "action": "Hands are guiding the fabric under the sewing machine needle"
+    },
+    {
+        "label": "The individual begins sewing the fabric at machine",
+        "start": 157.0,
+        "end": 158.0,
+        "action": "The individual begins sewing the fabric at machine"
+    },
+    {
+        "label": "The person adjusts the fabric carefully with both hands",
+        "start": 158.0,
+        "end": 160.0,
+        "action": "The person adjusts the fabric carefully with both hands"
+    },
+    {
+        "label": "The human is now aligning the seam with precise movements",
+        "start": 160.0,
+        "end": 163.0,
+        "action": "The human is now aligning the seam with precise movements"
+    },
+    {
+        "label": "The person continues to inspect and adjust the fabric piece",
+        "start": 163.0,
+        "end": 164.0,
+        "action": "The person continues to inspect and adjust the fabric piece"
+    },
+    {
+        "label": "The individual firmly presses and holds the fabric in place",
+        "start": 164.0,
+        "end": 166.0,
+        "action": "The individual firmly presses and holds the fabric in place"
+    },
+    {
+        "label": "Person is holding a fabric piece steady on the table",
+        "start": 166.0,
+        "end": 168.0,
+        "action": "Person is holding a fabric piece steady on the table"
+    },
+    {
+        "label": "Hands are smoothly running the fabric under the sewing machine",
+        "start": 168.0,
+        "end": 170.0,
+        "action": "Hands are smoothly running the fabric under the sewing machine"
+    },
+    {
+        "label": "Person is carefully aligning the fabric with the seam",
+        "start": 170.0,
+        "end": 173.0,
+        "action": "Person is carefully aligning the fabric with the seam"
+    },
+    {
+        "label": "Individual is steadily pushing fabric under sewing machine",
+        "start": 173.0,
+        "end": 176.0,
+        "action": "Individual is steadily pushing fabric under sewing machine"
+    },
+    {
+        "label": "The person carefully adjusts the fabric under the sewing machine needle",
+        "start": 176.0,
+        "end": 177.0,
+        "action": "The person carefully adjusts the fabric under the sewing machine needle"
+    },
+    {
+        "label": "Hands are guiding fabric and monitoring sewing machine operation",
+        "start": 177.0,
+        "end": 180.0,
+        "action": "Hands are guiding fabric and monitoring sewing machine operation"
+    },
+    {
+        "label": "The individual begins stitching the fabric using a sewing machine",
+        "start": 180.0,
+        "end": 182.0,
+        "action": "The individual begins stitching the fabric using a sewing machine"
+    },
+    {
+        "label": "Hands hold the fabric steadily as sewing machine continues stitching",
+        "start": 182.0,
+        "end": 187.0,
+        "action": "Hands hold the fabric steadily as sewing machine continues stitching"
+    },
+    {
+        "label": "The person is operating a sewing machine to stitch fabric pieces together",
+        "start": 187.0,
+        "end": 194.0,
+        "action": "The person is operating a sewing machine to stitch fabric pieces together"
+    },
+    {
+        "label": "The person is adjusting the fabric position slightly with their hands",
+        "start": 194.0,
+        "end": 197.0,
+        "action": "The person is adjusting the fabric position slightly with their hands"
+    },
+    {
+        "label": "The human moves the fabric back into position under the needle",
+        "start": 197.0,
+        "end": 198.0,
+        "action": "The human moves the fabric back into position under the needle"
+    },
+    {
+        "label": "The human is now moving their body to reach for another object",
+        "start": 198.0,
+        "end": 200.0,
+        "action": "The human is now moving their body to reach for another object"
+    },
+    {
+        "label": "The person is repeatedly operating the sewing machine with precision",
+        "start": 200.0,
+        "end": 205.0,
+        "action": "The person is repeatedly operating the sewing machine with precision"
+    },
+    {
+        "label": "The person continues stitching straight along the fabric edge",
+        "start": 205.0,
+        "end": 210.0,
+        "action": "The person continues stitching straight along the fabric edge"
+    },
+    {
+        "label": "The person slightly shifts the fabric position to align stitching",
+        "start": 210.0,
+        "end": 211.0,
+        "action": "The person slightly shifts the fabric position to align stitching"
+    },
+    {
+        "label": "Ensures that stitching continues along the intended fabric line",
+        "start": 211.0,
+        "end": 212.0,
+        "action": "Ensures that stitching continues along the intended fabric line"
+    },
+    {
+        "label": "Realigning fabric under sewing machine to maintain precise stitching",
+        "start": 212.0,
+        "end": 213.0,
+        "action": "Realigning fabric under sewing machine to maintain precise stitching"
+    },
+    {
+        "label": "The sewing machine continues stitching while adjusting fabric alignment",
+        "start": 213.0,
+        "end": 214.0,
+        "action": "The sewing machine continues stitching while adjusting fabric alignment"
+    },
+    {
+        "label": "The individual's hands start to move the fabric away from machine",
+        "start": 214.0,
+        "end": 215.0,
+        "action": "The individual's hands start to move the fabric away from machine"
+    },
+    {
+        "label": "The person is guiding fabric carefully under the sewing machine needle",
+        "start": 215.0,
+        "end": 219.0,
+        "action": "The person is guiding fabric carefully under the sewing machine needle"
+    },
+    {
+        "label": "Hands adjust the fabric alignment to prepare for the next stitch",
+        "start": 219.0,
+        "end": 223.0,
+        "action": "Hands adjust the fabric alignment to prepare for the next stitch"
+    },
+    {
+        "label": "The human is now moving their body to reach for another object",
+        "start": 223.0,
+        "end": 224.0,
+        "action": "The human is now moving their body to reach for another object"
+    },
+    {
+        "label": "The person resumes sewing, maintaining a steady hand on the fabric",
+        "start": 224.0,
+        "end": 228.0,
+        "action": "The person resumes sewing, maintaining a steady hand on the fabric"
+    },
+    {
+        "label": "The person is carefully guiding fabric through a sewing machine",
+        "start": 228.0,
+        "end": 235.0,
+        "action": "The person is carefully guiding fabric through a sewing machine"
+    },
+    {
+        "label": "The sewing machine is stitching along the fabric's edge smoothly",
+        "start": 235.0,
+        "end": 239.0,
+        "action": "The sewing machine is stitching along the fabric's edge smoothly"
+    },
+    {
+        "label": "The person readjusts the fabric for continued sewing with precision",
+        "start": 239.0,
+        "end": 240.0,
+        "action": "The person readjusts the fabric for continued sewing with precision"
+    },
+    {
+        "label": "The hands reposition the fabric to maintain a straight sewing line",
+        "start": 240.0,
+        "end": 242.0,
+        "action": "The hands reposition the fabric to maintain a straight sewing line"
+    },
+    {
+        "label": "Hands are carefully guiding fabric through the sewing machine",
+        "start": 242.0,
+        "end": 244.0,
+        "action": "Hands are carefully guiding fabric through the sewing machine"
+    },
+    {
+        "label": "The sewing continues with adjustments to the fabric and machine",
+        "start": 244.0,
+        "end": 245.0,
+        "action": "The sewing continues with adjustments to the fabric and machine"
+    },
+    {
+        "label": "The person adjusts the fabric to ensure proper alignment",
+        "start": 245.0,
+        "end": 248.0,
+        "action": "The person adjusts the fabric to ensure proper alignment"
+    },
+    {
+        "label": "The person is finishing the seam by stabilizing the fabric",
+        "start": 248.0,
+        "end": 250.0,
+        "action": "The person is finishing the seam by stabilizing the fabric"
+    },
+    {
+        "label": "The sewing machine continues to stitch the fabric steadily",
+        "start": 250.0,
+        "end": 252.0,
+        "action": "The sewing machine continues to stitch the fabric steadily"
+    },
+    {
+        "label": "The person is sewing fabric using the sewing machine carefully",
+        "start": 252.0,
+        "end": 253.0,
+        "action": "The person is sewing fabric using the sewing machine carefully"
+    },
+    {
+        "label": "Person's hands move to cut a thread with scissors",
+        "start": 253.0,
+        "end": 254.0,
+        "action": "Person's hands move to cut a thread with scissors"
+    },
+    {
+        "label": "The human shifts slightly to check the progress being made",
+        "start": 254.0,
+        "end": 255.0,
+        "action": "The human shifts slightly to check the progress being made"
+    },
+    {
+        "label": "The individual adjusts the fabric before continuing to sew steadily",
+        "start": 255.0,
+        "end": 256.0,
+        "action": "The individual adjusts the fabric before continuing to sew steadily"
+    },
+    {
+        "label": "Hands are returning fabric material to initial sewing position",
+        "start": 256.0,
+        "end": 257.0,
+        "action": "Hands are returning fabric material to initial sewing position"
+    },
+    {
+        "label": "The person pauses sewing to inspect the seam they have created",
+        "start": 257.0,
+        "end": 258.0,
+        "action": "The person pauses sewing to inspect the seam they have created"
+    },
+    {
+        "label": "The individual picks up large scissors to cut excess material",
+        "start": 258.0,
+        "end": 260.0,
+        "action": "The individual picks up large scissors to cut excess material"
+    },
+    {
+        "label": "The individual reaches for scissors to trim the thread carefully",
+        "start": 260.0,
+        "end": 261.0,
+        "action": "The individual reaches for scissors to trim the thread carefully"
+    },
+    {
+        "label": "The person is cutting through fabric with sharp scissors precisely",
+        "start": 261.0,
+        "end": 273.0,
+        "action": "The person is cutting through fabric with sharp scissors precisely"
+    },
+    {
+        "label": "The human is now moving their body to reach for another object",
+        "start": 273.0,
+        "end": 275.0,
+        "action": "The human is now moving their body to reach for another object"
+    },
+    {
+        "label": "The person is inspecting the fabric under bright workspace lighting",
+        "start": 275.0,
+        "end": 277.0,
+        "action": "The person is inspecting the fabric under bright workspace lighting"
+    },
+    {
+        "label": "The individual rearranges the fabric pieces on the work surface",
+        "start": 277.0,
+        "end": 280.0,
+        "action": "The individual rearranges the fabric pieces on the work surface"
+    },
+    {
+        "label": "The human is carefully adjusting the fabric before sewing further",
+        "start": 280.0,
+        "end": 283.0,
+        "action": "The human is carefully adjusting the fabric before sewing further"
+    },
+    {
+        "label": "Person adjusts fabric carefully under the sewing machine needle",
+        "start": 283.0,
+        "end": 285.0,
+        "action": "Person adjusts fabric carefully under the sewing machine needle"
+    },
+    {
+        "label": "Fingers smooth the fabric to eliminate any possible wrinkles",
+        "start": 285.0,
+        "end": 286.0,
+        "action": "Fingers smooth the fabric to eliminate any possible wrinkles"
+    },
+    {
+        "label": "Hands move to align edges of the fabric precisely",
+        "start": 286.0,
+        "end": 290.0,
+        "action": "Hands move to align edges of the fabric precisely"
+    },
+    {
+        "label": "Hands guide fabric smoothly as sewing machine stitches fabric",
+        "start": 290.0,
+        "end": 295.0,
+        "action": "Hands guide fabric smoothly as sewing machine stitches fabric"
+    },
+    {
+        "label": "Hands are steadily guiding the fabric for precise stitching",
+        "start": 295.0,
+        "end": 297.0,
+        "action": "Hands are steadily guiding the fabric for precise stitching"
+    },
+    {
+        "label": "The person is carefully stitching fabric using the sewing machine",
+        "start": 297.0,
+        "end": 299.0,
+        "action": "The person is carefully stitching fabric using the sewing machine"
+    },
+    {
+        "label": "The person adjusts the fabric to maintain a straight sewing line",
+        "start": 299.0,
+        "end": 300.0,
+        "action": "The person adjusts the fabric to maintain a straight sewing line"
+    },
+    {
+        "label": "Hands reposition the fabric to continue sewing with the machine",
+        "start": 300.0,
+        "end": 301.0,
+        "action": "Hands reposition the fabric to continue sewing with the machine"
+    },
+    {
+        "label": "Ensuring the stitches are secure, the fabric is pressed firmly",
+        "start": 301.0,
+        "end": 305.0,
+        "action": "Ensuring the stitches are secure, the fabric is pressed firmly"
+    },
+    {
+        "label": "The person uses the machine to reinforce stitch on the cloth",
+        "start": 305.0,
+        "end": 306.0,
+        "action": "The person uses the machine to reinforce stitch on the cloth"
+    },
+    {
+        "label": "Hands adjust the fabric and machine for accurate stitching alignment",
+        "start": 306.0,
+        "end": 309.0,
+        "action": "Hands adjust the fabric and machine for accurate stitching alignment"
+    },
+    {
+        "label": "The fabric is being sewn smoothly in a straight line pattern",
+        "start": 309.0,
+        "end": 314.0,
+        "action": "The fabric is being sewn smoothly in a straight line pattern"
+    },
+    {
+        "label": "Hands maintain control over the fabric as sewing progresses",
+        "start": 314.0,
+        "end": 315.0,
+        "action": "Hands maintain control over the fabric as sewing progresses"
+    },
+    {
+        "label": "The person is steadily guiding fabric under the sewing machine",
+        "start": 315.0,
+        "end": 318.0,
+        "action": "The person is steadily guiding fabric under the sewing machine"
+    },
+    {
+        "label": "Hands adjust the fabric to ensure alignment with sewing needle",
+        "start": 318.0,
+        "end": 322.0,
+        "action": "Hands adjust the fabric to ensure alignment with sewing needle"
+    },
+    {
+        "label": "The person is sewing dark fabric using an electric sewing machine",
+        "start": 322.0,
+        "end": 328.0,
+        "action": "The person is sewing dark fabric using an electric sewing machine"
+    },
+    {
+        "label": "Hands maintain pressure on fabric to keep it stable while sewing",
+        "start": 328.0,
+        "end": 330.0,
+        "action": "Hands maintain pressure on fabric to keep it stable while sewing"
+    },
+    {
+        "label": "The person is cutting the fabric with large metal scissors",
+        "start": 330.0,
+        "end": 336.0,
+        "action": "The person is cutting the fabric with large metal scissors"
+    },
+    {
+        "label": "Adjusting the fabric position before placing it under sewing machine",
+        "start": 336.0,
+        "end": 338.0,
+        "action": "Adjusting the fabric position before placing it under sewing machine"
+    },
+    {
+        "label": "The person is adjusting the fabric and preparing to sew again",
+        "start": 338.0,
+        "end": 340.0,
+        "action": "The person is adjusting the fabric and preparing to sew again"
+    },
+    {
+        "label": "Operating sewing machine to stitch along the edge of the fabric",
+        "start": 340.0,
+        "end": 343.0,
+        "action": "Operating sewing machine to stitch along the edge of the fabric"
+    },
+    {
+        "label": "Hands are gently lifting the fabric to inspect the stitching work",
+        "start": 343.0,
+        "end": 344.0,
+        "action": "Hands are gently lifting the fabric to inspect the stitching work"
+    },
+    {
+        "label": "The human is repositioning hands carefully to guide the fabric",
+        "start": 344.0,
+        "end": 347.0,
+        "action": "The human is repositioning hands carefully to guide the fabric"
+    },
+    {
+        "label": "Continuing to sew smoothly, focusing on maintaining a straight line",
+        "start": 347.0,
+        "end": 351.0,
+        "action": "Continuing to sew smoothly, focusing on maintaining a straight line"
+    },
+    {
+        "label": "The person is carefully aligning fabric under the sewing machine",
+        "start": 351.0,
+        "end": 354.0,
+        "action": "The person is carefully aligning fabric under the sewing machine"
+    },
+    {
+        "label": "The person is stopping sewing machine and adjusting fabric edge",
+        "start": 354.0,
+        "end": 355.0,
+        "action": "The person is stopping sewing machine and adjusting fabric edge"
+    },
+    {
+        "label": "The person is holding fabric and preparing to sew more stitches",
+        "start": 355.0,
+        "end": 356.0,
+        "action": "The person is holding fabric and preparing to sew more stitches"
+    },
+    {
+        "label": "Hands are carefully adjusting the fabric near the sewing machine",
+        "start": 356.0,
+        "end": 357.0,
+        "action": "Hands are carefully adjusting the fabric near the sewing machine"
+    },
+    {
+        "label": "Adjusting the position of the fabric with both hands gently",
+        "start": 357.0,
+        "end": 358.0,
+        "action": "Adjusting the position of the fabric with both hands gently"
+    },
+    {
+        "label": "Holding and inspecting the fabric after making some stitches",
+        "start": 358.0,
+        "end": 359.0,
+        "action": "Holding and inspecting the fabric after making some stitches"
+    },
+    {
+        "label": "Positioning the fabric under the sewing machine for next steps",
+        "start": 359.0,
+        "end": 360.0,
+        "action": "Positioning the fabric under the sewing machine for next steps"
+    },
+    {
+        "label": "The person smooths the fabric surface on the worktable",
+        "start": 360.0,
+        "end": 362.0,
+        "action": "The person smooths the fabric surface on the worktable"
+    },
+    {
+        "label": "Hands are reaching toward the scissors placed beside the fabric",
+        "start": 362.0,
+        "end": 364.0,
+        "action": "Hands are reaching toward the scissors placed beside the fabric"
+    },
+    {
+        "label": "The person folds the fabric at the seam to check alignment",
+        "start": 364.0,
+        "end": 366.0,
+        "action": "The person folds the fabric at the seam to check alignment"
+    },
+    {
+        "label": "The human is now moving their body to reach for another object",
+        "start": 366.0,
+        "end": 368.0,
+        "action": "The human is now moving their body to reach for another object"
+    },
+    {
+        "label": "Hands hold the fabric again and further inspect the seam quality",
+        "start": 368.0,
+        "end": 370.0,
+        "action": "Hands hold the fabric again and further inspect the seam quality"
+    },
+    {
+        "label": "The person is positioning fabric under the sewing machine needle",
+        "start": 370.0,
+        "end": 371.0,
+        "action": "The person is positioning fabric under the sewing machine needle"
+    },
+    {
+        "label": "They are adjusting the fabric to align correctly for stitching",
+        "start": 371.0,
+        "end": 372.0,
+        "action": "They are adjusting the fabric to align correctly for stitching"
+    },
+    {
+        "label": "The person's hands are guiding the sewing process carefully",
+        "start": 372.0,
+        "end": 373.0,
+        "action": "The person's hands are guiding the sewing process carefully"
+    },
+    {
+        "label": "They are continuing to sew the fabric with precision and focus",
+        "start": 373.0,
+        "end": 374.0,
+        "action": "They are continuing to sew the fabric with precision and focus"
+    },
+    {
+        "label": "The person is completing the final stitch and inspecting sewing",
+        "start": 374.0,
+        "end": 375.0,
+        "action": "The person is completing the final stitch and inspecting sewing"
+    },
+    {
+        "label": "The person is stitching another part of the fabric swiftly",
+        "start": 375.0,
+        "end": 390.0,
+        "action": "The person is stitching another part of the fabric swiftly"
+    },
+    {
+        "label": "Person uses large scissors to carefully cut fabric material",
+        "start": 390.0,
+        "end": 398.0,
+        "action": "Person uses large scissors to carefully cut fabric material"
+    },
+    {
+        "label": "Person is carefully cutting fabric using a large pair of scissors",
+        "start": 398.0,
+        "end": 399.0,
+        "action": "Person is carefully cutting fabric using a large pair of scissors"
+    },
+    {
+        "label": "Selective trimming and smoothing out the fabric's uneven edges",
+        "start": 399.0,
+        "end": 402.0,
+        "action": "Selective trimming and smoothing out the fabric's uneven edges"
+    },
+    {
+        "label": "The individual operates the sewing machine to stitch the fabric",
+        "start": 402.0,
+        "end": 403.0,
+        "action": "The individual operates the sewing machine to stitch the fabric"
+    },
+    {
+        "label": "Person aligns the pieces checking for fabric consistency and quality",
+        "start": 403.0,
+        "end": 405.0,
+        "action": "Person aligns the pieces checking for fabric consistency and quality"
+    },
+    {
+        "label": "Hands are folding the fabric neatly to prepare for next steps",
+        "start": 405.0,
+        "end": 407.0,
+        "action": "Hands are folding the fabric neatly to prepare for next steps"
+    },
+    {
+        "label": "Person inspects the stitching carefully checking for any errors",
+        "start": 407.0,
+        "end": 410.0,
+        "action": "Person inspects the stitching carefully checking for any errors"
+    },
+    {
+        "label": "The individual is now adjusting and aligning the fabric pieces",
+        "start": 410.0,
+        "end": 413.0,
+        "action": "The individual is now adjusting and aligning the fabric pieces"
+    },
+    {
+        "label": "Hands are making final adjustments and preparations with fabric",
+        "start": 413.0,
+        "end": 415.0,
+        "action": "Hands are making final adjustments and preparations with fabric"
+    },
+    {
+        "label": "Fabric alignment and inspection are done carefully by the person",
+        "start": 415.0,
+        "end": 430.0,
+        "action": "Fabric alignment and inspection are done carefully by the person"
+    },
+    {
+        "label": "Final adjustments are made, ensuring the alignment is perfect now",
+        "start": 430.0,
+        "end": 450.0,
+        "action": "Final adjustments are made, ensuring the alignment is perfect now"
+    },
+    {
+        "label": "Hands are adjusting the material to prepare for sewing operations",
+        "start": 450.0,
+        "end": 451.0,
+        "action": "Hands are adjusting the material to prepare for sewing operations"
+    },
+    {
+        "label": "The individual begins using the sewing machine to stitch the fabric",
+        "start": 451.0,
+        "end": 454.0,
+        "action": "The individual begins using the sewing machine to stitch the fabric"
+    },
+    {
+        "label": "Hands are holding fabric while adjusting its alignment for sewing",
+        "start": 454.0,
+        "end": 456.0,
+        "action": "Hands are holding fabric while adjusting its alignment for sewing"
+    },
+    {
+        "label": "Adjustments are made to keep the fabric straight while sewing",
+        "start": 456.0,
+        "end": 458.0,
+        "action": "Adjustments are made to keep the fabric straight while sewing"
+    },
+    {
+        "label": "The person operates the sewing machine to stitch the fabric",
+        "start": 458.0,
+        "end": 462.0,
+        "action": "The person operates the sewing machine to stitch the fabric"
+    },
+    {
+        "label": "Final adjustments are made to the fabric after stitching completion",
+        "start": 462.0,
+        "end": 464.0,
+        "action": "Final adjustments are made to the fabric after stitching completion"
+    },
+    {
+        "label": "The person is aligning the fabric under the sewing machine needle",
+        "start": 464.0,
+        "end": 466.0,
+        "action": "The person is aligning the fabric under the sewing machine needle"
+    },
+    {
+        "label": "Hands are maneuvering the fabric under the sewing machine needle",
+        "start": 466.0,
+        "end": 468.0,
+        "action": "Hands are maneuvering the fabric under the sewing machine needle"
+    },
+    {
+        "label": "The human guides the fabric towards the needle using both hands",
+        "start": 468.0,
+        "end": 470.0,
+        "action": "The human guides the fabric towards the needle using both hands"
+    },
+    {
+        "label": "The person is guiding the fabric through the sewing machine",
+        "start": 470.0,
+        "end": 473.0,
+        "action": "The person is guiding the fabric through the sewing machine"
+    },
+    {
+        "label": "The person continues sewing, moving fabric carefully under needle",
+        "start": 473.0,
+        "end": 474.0,
+        "action": "The person continues sewing, moving fabric carefully under needle"
+    },
+    {
+        "label": "The human readjusts the fabric to sew a straighter line again",
+        "start": 474.0,
+        "end": 478.0,
+        "action": "The human readjusts the fabric to sew a straighter line again"
+    },
+    {
+        "label": "Person is repositioning their hands to guide the fabric more",
+        "start": 478.0,
+        "end": 486.0,
+        "action": "Person is repositioning their hands to guide the fabric more"
+    },
+    {
+        "label": "The person is aligning the fabric edges before stitching further",
+        "start": 486.0,
+        "end": 495.0,
+        "action": "The person is aligning the fabric edges before stitching further"
+    },
+    {
+        "label": "The person is repositioning their hands to hold fabric firmly",
+        "start": 495.0,
+        "end": 496.0,
+        "action": "The person is repositioning their hands to hold fabric firmly"
+    },
+    {
+        "label": "Starting the sewing machine to sew the fabric along the edge",
+        "start": 496.0,
+        "end": 498.0,
+        "action": "Starting the sewing machine to sew the fabric along the edge"
+    },
+    {
+        "label": "Adjusting fabric placement and continuing to sew straight line",
+        "start": 498.0,
+        "end": 500.0,
+        "action": "Adjusting fabric placement and continuing to sew straight line"
+    },
+    {
+        "label": "Using sewing machine to reinforce stitches along the seam",
+        "start": 500.0,
+        "end": 502.0,
+        "action": "Using sewing machine to reinforce stitches along the seam"
+    },
+    {
+        "label": "Continuing to sew with careful attention to fabric alignment",
+        "start": 502.0,
+        "end": 504.0,
+        "action": "Continuing to sew with careful attention to fabric alignment"
+    },
+    {
+        "label": "The operator is starting another row of stitches on garment",
+        "start": 504.0,
+        "end": 513.0,
+        "action": "The operator is starting another row of stitches on garment"
+    },
+    {
+        "label": "The person is steadily sewing fabric with a machine needle",
+        "start": 513.0,
+        "end": 515.0,
+        "action": "The person is steadily sewing fabric with a machine needle"
+    },
+    {
+        "label": "Hands adjust the fabric slightly to continue even stitching",
+        "start": 515.0,
+        "end": 520.0,
+        "action": "Hands adjust the fabric slightly to continue even stitching"
+    },
+    {
+        "label": "Fingers guide the fabric beneath the machine's presser foot",
+        "start": 520.0,
+        "end": 525.0,
+        "action": "Fingers guide the fabric beneath the machine's presser foot"
+    },
+    {
+        "label": "Takes a pause to ensure fabric direction is still properly aligned",
+        "start": 525.0,
+        "end": 531.0,
+        "action": "Takes a pause to ensure fabric direction is still properly aligned"
+    },
+    {
+        "label": "Operator proceeds with stitching by pushing fabric forward carefully",
+        "start": 531.0,
+        "end": 540.0,
+        "action": "Operator proceeds with stitching by pushing fabric forward carefully"
+    },
+    {
+        "label": "Pauses occasionally to check the stitch line and adjust approach",
+        "start": 540.0,
+        "end": 549.0,
+        "action": "Pauses occasionally to check the stitch line and adjust approach"
+    },
+    {
+        "label": "Hands are holding the fabric steady while the needle stitches",
+        "start": 549.0,
+        "end": 559.0,
+        "action": "Hands are holding the fabric steady while the needle stitches"
+    },
+    {
+        "label": "The person is carefully guiding fabric under sewing machine needle",
+        "start": 559.0,
+        "end": 560.0,
+        "action": "The person is carefully guiding fabric under sewing machine needle"
+    },
+    {
+        "label": "The person is adjusting the fabric for continued precise sewing",
+        "start": 560.0,
+        "end": 563.0,
+        "action": "The person is adjusting the fabric for continued precise sewing"
+    },
+    {
+        "label": "Hands are adjusting the fabric alignment with machine presser foot",
+        "start": 563.0,
+        "end": 565.0,
+        "action": "Hands are adjusting the fabric alignment with machine presser foot"
+    },
+    {
+        "label": "The person is meticulously sewing fabric using a sewing machine",
+        "start": 565.0,
+        "end": 581.0,
+        "action": "The person is meticulously sewing fabric using a sewing machine"
+    },
+    {
+        "label": "Final inspection of stitches and adjustments are made to the fabric",
+        "start": 581.0,
+        "end": 585.0,
+        "action": "Final inspection of stitches and adjustments are made to the fabric"
+    },
+    {
+        "label": "The person is carefully sewing the fabric using a machine",
+        "start": 585.0,
+        "end": 588.0,
+        "action": "The person is carefully sewing the fabric using a machine"
+    },
+    {
+        "label": "The person adjusts fabric position while continuing to sew",
+        "start": 588.0,
+        "end": 592.0,
+        "action": "The person adjusts fabric position while continuing to sew"
+    },
+    {
+        "label": "The person is aligning the edges of the garment for accuracy",
+        "start": 592.0,
+        "end": 595.0,
+        "action": "The person is aligning the edges of the garment for accuracy"
+    },
+    {
+        "label": "The person begins stitching along the edge of the garment",
+        "start": 595.0,
+        "end": 599.5306222222223,
+        "action": "The person begins stitching along the edge of the garment"
+    }
+]
